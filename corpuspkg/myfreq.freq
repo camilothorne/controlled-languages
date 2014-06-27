@@ -1,0 +1,3549 @@
+=> num distinct words: 1773
+=> ind lex richness: 3.3181049069373945
+=> num corpus words: 5883
+* rel freq of ''': 1.1000000000000001
+* num times of ''': 63 out of 5883
+* rel freq of '''': 0.0
+* num times of '''': 2 out of 5883
+* rel freq of ''?': 0.10000000000000001
+* num times of ''?': 8 out of 5883
+* rel freq of '-': 0.40000000000000002
+* num times of '-': 23 out of 5883
+* rel freq of '--': 0.0
+* num times of '--': 1 out of 5883
+* rel freq of '.': 0.20000000000000001
+* num times of '.': 13 out of 5883
+* rel freq of '..': 0.0
+* num times of '..': 1 out of 5883
+* rel freq of '.?': 0.0
+* num times of '.?': 2 out of 5883
+* rel freq of '0': 0.0
+* num times of '0': 1 out of 5883
+* rel freq of '0x00000004': 0.0
+* num times of '0x00000004': 1 out of 5883
+* rel freq of '0x0b2d90c4': 0.0
+* num times of '0x0b2d90c4': 1 out of 5883
+* rel freq of '0x73ed2659': 0.0
+* num times of '0x73ed2659': 1 out of 5883
+* rel freq of '0x9c26531': 0.0
+* num times of '0x9c26531': 1 out of 5883
+* rel freq of '1': 0.10000000000000001
+* num times of '1': 3 out of 5883
+* rel freq of '1000pm': 0.0
+* num times of '1000pm': 1 out of 5883
+* rel freq of '1030pm': 0.0
+* num times of '1030pm': 1 out of 5883
+* rel freq of '12': 0.0
+* num times of '12': 1 out of 5883
+* rel freq of '12v31': 0.0
+* num times of '12v31': 1 out of 5883
+* rel freq of '16': 0.0
+* num times of '16': 2 out of 5883
+* rel freq of '17': 0.0
+* num times of '17': 1 out of 5883
+* rel freq of '1920s': 0.0
+* num times of '1920s': 1 out of 5883
+* rel freq of '1930s': 0.0
+* num times of '1930s': 1 out of 5883
+* rel freq of '1940': 0.0
+* num times of '1940': 1 out of 5883
+* rel freq of '1945': 0.0
+* num times of '1945': 1 out of 5883
+* rel freq of '1980': 0.0
+* num times of '1980': 1 out of 5883
+* rel freq of '1988': 0.0
+* num times of '1988': 1 out of 5883
+* rel freq of '1999': 0.0
+* num times of '1999': 1 out of 5883
+* rel freq of '1month': 0.0
+* num times of '1month': 1 out of 5883
+* rel freq of '1st': 0.0
+* num times of '1st': 1 out of 5883
+* rel freq of '2': 0.10000000000000001
+* num times of '2': 7 out of 5883
+* rel freq of '2000': 0.0
+* num times of '2000': 1 out of 5883
+* rel freq of '2003': 0.0
+* num times of '2003': 1 out of 5883
+* rel freq of '2007': 0.0
+* num times of '2007': 1 out of 5883
+* rel freq of '22': 0.0
+* num times of '22': 1 out of 5883
+* rel freq of '25': 0.0
+* num times of '25': 1 out of 5883
+* rel freq of '27': 0.0
+* num times of '27': 1 out of 5883
+* rel freq of '28': 0.0
+* num times of '28': 1 out of 5883
+* rel freq of '3': 0.0
+* num times of '3': 1 out of 5883
+* rel freq of '30': 0.0
+* num times of '30': 1 out of 5883
+* rel freq of '31': 0.0
+* num times of '31': 1 out of 5883
+* rel freq of '38': 0.0
+* num times of '38': 1 out of 5883
+* rel freq of '3d': 0.0
+* num times of '3d': 1 out of 5883
+* rel freq of '3ds': 0.0
+* num times of '3ds': 1 out of 5883
+* rel freq of '5': 0.10000000000000001
+* num times of '5': 5 out of 5883
+* rel freq of '50': 0.0
+* num times of '50': 1 out of 5883
+* rel freq of '51': 0.0
+* num times of '51': 1 out of 5883
+* rel freq of '6': 0.0
+* num times of '6': 1 out of 5883
+* rel freq of '6365': 0.0
+* num times of '6365': 1 out of 5883
+* rel freq of '64': 0.0
+* num times of '64': 1 out of 5883
+* rel freq of '7905': 0.0
+* num times of '7905': 1 out of 5883
+* rel freq of '8': 0.0
+* num times of '8': 1 out of 5883
+* rel freq of '990': 0.0
+* num times of '990': 1 out of 5883
+* rel freq of '?': 7.4000000000000004
+* num times of '?': 433 out of 5883
+* rel freq of 'a': 0.0
+* num times of 'a': 2 out of 5883
+* rel freq of 'ads': 0.0
+* num times of 'ads': 1 out of 5883
+* rel freq of 'am': 0.0
+* num times of 'am': 1 out of 5883
+* rel freq of 'amd': 0.0
+* num times of 'amd': 2 out of 5883
+* rel freq of 'arq': 0.0
+* num times of 'arq': 1 out of 5883
+* rel freq of 'at': 0.0
+* num times of 'at': 2 out of 5883
+* rel freq of 'avg': 0.0
+* num times of 'avg': 1 out of 5883
+* rel freq of 'abhishek': 0.0
+* num times of 'abhishek': 1 out of 5883
+* rel freq of 'acapulco': 0.0
+* num times of 'acapulco': 1 out of 5883
+* rel freq of 'access': 0.0
+* num times of 'access': 1 out of 5883
+* rel freq of 'action': 0.0
+* num times of 'action': 1 out of 5883
+* rel freq of 'administration': 0.0
+* num times of 'administration': 1 out of 5883
+* rel freq of 'advertisements': 0.0
+* num times of 'advertisements': 1 out of 5883
+* rel freq of 'africa': 0.0
+* num times of 'africa': 1 out of 5883
+* rel freq of 'air': 0.0
+* num times of 'air': 1 out of 5883
+* rel freq of 'airplane': 0.0
+* num times of 'airplane': 1 out of 5883
+* rel freq of 'airport': 0.0
+* num times of 'airport': 1 out of 5883
+* rel freq of 'airwaves': 0.0
+* num times of 'airwaves': 1 out of 5883
+* rel freq of 'alabama': 0.0
+* num times of 'alabama': 1 out of 5883
+* rel freq of 'all': 0.0
+* num times of 'all': 1 out of 5883
+* rel freq of 'alps': 0.0
+* num times of 'alps': 1 out of 5883
+* rel freq of 'american': 0.0
+* num times of 'american': 2 out of 5883
+* rel freq of 'amsterdam': 0.0
+* num times of 'amsterdam': 1 out of 5883
+* rel freq of 'andy': 0.0
+* num times of 'andy': 1 out of 5883
+* rel freq of 'angeles': 0.10000000000000001
+* num times of 'angeles': 4 out of 5883
+* rel freq of 'angels': 0.0
+* num times of 'angels': 1 out of 5883
+* rel freq of 'animal': 0.0
+* num times of 'animal': 1 out of 5883
+* rel freq of 'anita': 0.0
+* num times of 'anita': 1 out of 5883
+* rel freq of 'anthropology': 0.0
+* num times of 'anthropology': 2 out of 5883
+* rel freq of 'antonio': 0.0
+* num times of 'antonio': 1 out of 5883
+* rel freq of 'apprentice': 0.0
+* num times of 'apprentice': 1 out of 5883
+* rel freq of 'arabic': 0.0
+* num times of 'arabic': 1 out of 5883
+* rel freq of 'are': 0.10000000000000001
+* num times of 'are': 3 out of 5883
+* rel freq of 'armenia': 0.0
+* num times of 'armenia': 1 out of 5883
+* rel freq of 'aruba': 0.0
+* num times of 'aruba': 1 out of 5883
+* rel freq of 'asian': 0.0
+* num times of 'asian': 1 out of 5883
+* rel freq of 'aside': 0.0
+* num times of 'aside': 1 out of 5883
+* rel freq of 'atlanta': 0.10000000000000001
+* num times of 'atlanta': 3 out of 5883
+* rel freq of 'australia': 0.0
+* num times of 'australia': 1 out of 5883
+* rel freq of 'avg': 0.0
+* num times of 'avg': 1 out of 5883
+* rel freq of 'bbc': 0.0
+* num times of 'bbc': 1 out of 5883
+* rel freq of 'bc': 0.0
+* num times of 'bc': 2 out of 5883
+* rel freq of 'bios': 0.0
+* num times of 'bios': 1 out of 5883
+* rel freq of 'bachelor': 0.0
+* num times of 'bachelor': 1 out of 5883
+* rel freq of 'baltimore': 0.0
+* num times of 'baltimore': 1 out of 5883
+* rel freq of 'bangale': 0.0
+* num times of 'bangale': 1 out of 5883
+* rel freq of 'bangkok': 0.0
+* num times of 'bangkok': 1 out of 5883
+* rel freq of 'baptist': 0.0
+* num times of 'baptist': 1 out of 5883
+* rel freq of 'barbados': 0.0
+* num times of 'barbados': 1 out of 5883
+* rel freq of 'bell': 0.0
+* num times of 'bell': 1 out of 5883
+* rel freq of 'bible': 0.10000000000000001
+* num times of 'bible': 3 out of 5883
+* rel freq of 'brazil': 0.0
+* num times of 'brazil': 1 out of 5883
+* rel freq of 'bruises': 0.0
+* num times of 'bruises': 1 out of 5883
+* rel freq of 'btech': 0.0
+* num times of 'btech': 1 out of 5883
+* rel freq of 'buddha': 0.0
+* num times of 'buddha': 1 out of 5883
+* rel freq of 'buddhism': 0.0
+* num times of 'buddhism': 1 out of 5883
+* rel freq of 'burry': 0.0
+* num times of 'burry': 1 out of 5883
+* rel freq of 'business': 0.0
+* num times of 'business': 1 out of 5883
+* rel freq of 'ca': 0.0
+* num times of 'ca': 2 out of 5883
+* rel freq of 'cd': 0.10000000000000001
+* num times of 'cd': 5 out of 5883
+* rel freq of 'cmmi': 0.0
+* num times of 'cmmi': 1 out of 5883
+* rel freq of 'cairo': 0.0
+* num times of 'cairo': 2 out of 5883
+* rel freq of 'california': 0.0
+* num times of 'california': 2 out of 5883
+* rel freq of 'can': 0.20000000000000001
+* num times of 'can': 13 out of 5883
+* rel freq of 'canada': 0.10000000000000001
+* num times of 'canada': 5 out of 5883
+* rel freq of 'cancun': 0.10000000000000001
+* num times of 'cancun': 3 out of 5883
+* rel freq of 'canmore': 0.0
+* num times of 'canmore': 1 out of 5883
+* rel freq of 'carolina': 0.0
+* num times of 'carolina': 1 out of 5883
+* rel freq of 'catch': 0.0
+* num times of 'catch': 1 out of 5883
+* rel freq of 'chapman': 0.0
+* num times of 'chapman': 1 out of 5883
+* rel freq of 'charlotte': 0.0
+* num times of 'charlotte': 1 out of 5883
+* rel freq of 'chart': 0.0
+* num times of 'chart': 1 out of 5883
+* rel freq of 'chi': 0.0
+* num times of 'chi': 2 out of 5883
+* rel freq of 'chicago': 0.0
+* num times of 'chicago': 1 out of 5883
+* rel freq of 'christianity': 0.10000000000000001
+* num times of 'christianity': 3 out of 5883
+* rel freq of 'christina': 0.0
+* num times of 'christina': 2 out of 5883
+* rel freq of 'church': 0.0
+* num times of 'church': 1 out of 5883
+* rel freq of 'circle': 0.0
+* num times of 'circle': 1 out of 5883
+* rel freq of 'city': 0.10000000000000001
+* num times of 'city': 3 out of 5883
+* rel freq of 'cleveland': 0.0
+* num times of 'cleveland': 1 out of 5883
+* rel freq of 'code': 0.0
+* num times of 'code': 1 out of 5883
+* rel freq of 'coleman': 0.0
+* num times of 'coleman': 1 out of 5883
+* rel freq of 'college': 0.0
+* num times of 'college': 1 out of 5883
+* rel freq of 'colorado': 0.0
+* num times of 'colorado': 1 out of 5883
+* rel freq of 'commandments': 0.0
+* num times of 'commandments': 1 out of 5883
+* rel freq of 'connecticut': 0.0
+* num times of 'connecticut': 2 out of 5883
+* rel freq of 'consequence': 0.0
+* num times of 'consequence': 1 out of 5883
+* rel freq of 'cookieadministrator': 0.0
+* num times of 'cookieadministrator': 1 out of 5883
+* rel freq of 'core': 0.0
+* num times of 'core': 1 out of 5883
+* rel freq of 'corfu': 0.0
+* num times of 'corfu': 1 out of 5883
+* rel freq of 'corinthians': 0.0
+* num times of 'corinthians': 1 out of 5883
+* rel freq of 'cosmopolitan': 0.0
+* num times of 'cosmopolitan': 1 out of 5883
+* rel freq of 'crime': 0.0
+* num times of 'crime': 2 out of 5883
+* rel freq of 'crossing': 0.0
+* num times of 'crossing': 1 out of 5883
+* rel freq of 'd2k': 0.0
+* num times of 'd2k': 1 out of 5883
+* rel freq of 'dc': 0.10000000000000001
+* num times of 'dc': 4 out of 5883
+* rel freq of 'ddr': 0.0
+* num times of 'ddr': 1 out of 5883
+* rel freq of 'ds': 0.0
+* num times of 'ds': 2 out of 5883
+* rel freq of 'dummy': 0.0
+* num times of 'dummy': 1 out of 5883
+* rel freq of 'dvd': 0.0
+* num times of 'dvd': 2 out of 5883
+* rel freq of 'darkness': 0.0
+* num times of 'darkness': 1 out of 5883
+* rel freq of 'dateline': 0.0
+* num times of 'dateline': 1 out of 5883
+* rel freq of 'day': 0.0
+* num times of 'day': 1 out of 5883
+* rel freq of 'daytime': 0.0
+* num times of 'daytime': 1 out of 5883
+* rel freq of 'december': 0.0
+* num times of 'december': 1 out of 5883
+* rel freq of 'delfino': 0.0
+* num times of 'delfino': 1 out of 5883
+* rel freq of 'dell': 0.0
+* num times of 'dell': 1 out of 5883
+* rel freq of 'delonge': 0.0
+* num times of 'delonge': 1 out of 5883
+* rel freq of 'denver': 0.0
+* num times of 'denver': 1 out of 5883
+* rel freq of 'desert': 0.0
+* num times of 'desert': 1 out of 5883
+* rel freq of 'desperate': 0.0
+* num times of 'desperate': 1 out of 5883
+* rel freq of 'detroit': 0.0
+* num times of 'detroit': 2 out of 5883
+* rel freq of 'did': 0.0
+* num times of 'did': 1 out of 5883
+* rel freq of 'diego': 0.0
+* num times of 'diego': 1 out of 5883
+* rel freq of 'difference': 0.0
+* num times of 'difference': 1 out of 5883
+* rel freq of 'discuss': 0.0
+* num times of 'discuss': 1 out of 5883
+* rel freq of 'dixie': 0.0
+* num times of 'dixie': 1 out of 5883
+* rel freq of 'do': 0.10000000000000001
+* num times of 'do': 5 out of 5883
+* rel freq of 'dobro': 0.0
+* num times of 'dobro': 1 out of 5883
+* rel freq of 'doctor': 0.0
+* num times of 'doctor': 1 out of 5883
+* rel freq of 'does': 0.0
+* num times of 'does': 2 out of 5883
+* rel freq of 'dont': 0.0
+* num times of 'dont': 1 out of 5883
+* rel freq of 'doris': 0.0
+* num times of 'doris': 1 out of 5883
+* rel freq of 'down': 0.0
+* num times of 'down': 1 out of 5883
+* rel freq of 'drosnin': 0.0
+* num times of 'drosnin': 1 out of 5883
+* rel freq of 'dubai': 0.0
+* num times of 'dubai': 1 out of 5883
+* rel freq of 'duo': 0.0
+* num times of 'duo': 1 out of 5883
+* rel freq of 'e': 0.0
+* num times of 'e': 1 out of 5883
+* rel freq of 'egypt': 0.10000000000000001
+* num times of 'egypt': 3 out of 5883
+* rel freq of 'emerald': 0.10000000000000001
+* num times of 'emerald': 3 out of 5883
+* rel freq of 'emmy': 0.0
+* num times of 'emmy': 1 out of 5883
+* rel freq of 'england': 0.20000000000000001
+* num times of 'england': 10 out of 5883
+* rel freq of 'english': 0.0
+* num times of 'english': 1 out of 5883
+* rel freq of 'eon': 0.0
+* num times of 'eon': 1 out of 5883
+* rel freq of 'ethernet': 0.0
+* num times of 'ethernet': 1 out of 5883
+* rel freq of 'ethiopian': 0.0
+* num times of 'ethiopian': 1 out of 5883
+* rel freq of 'ethnographic': 0.0
+* num times of 'ethnographic': 1 out of 5883
+* rel freq of 'europe': 0.0
+* num times of 'europe': 1 out of 5883
+* rel freq of 'event': 0.0
+* num times of 'event': 1 out of 5883
+* rel freq of 'evil': 0.0
+* num times of 'evil': 1 out of 5883
+* rel freq of 'f': 0.0
+* num times of 'f': 1 out of 5883
+* rel freq of 'fcs': 0.0
+* num times of 'fcs': 1 out of 5883
+* rel freq of 'fl': 0.10000000000000001
+* num times of 'fl': 3 out of 5883
+* rel freq of 'fell': 0.0
+* num times of 'fell': 1 out of 5883
+* rel freq of 'fi': 0.0
+* num times of 'fi': 1 out of 5883
+* rel freq of 'filipina': 0.0
+* num times of 'filipina': 1 out of 5883
+* rel freq of 'film': 0.0
+* num times of 'film': 1 out of 5883
+* rel freq of 'firered': 0.0
+* num times of 'firered': 1 out of 5883
+* rel freq of 'flaherty': 0.0
+* num times of 'flaherty': 1 out of 5883
+* rel freq of 'flight': 0.0
+* num times of 'flight': 1 out of 5883
+* rel freq of 'florida': 0.10000000000000001
+* num times of 'florida': 3 out of 5883
+* rel freq of 'france': 0.10000000000000001
+* num times of 'france': 3 out of 5883
+* rel freq of 'francesca': 0.0
+* num times of 'francesca': 1 out of 5883
+* rel freq of 'fredericton': 0.0
+* num times of 'fredericton': 1 out of 5883
+* rel freq of 'french': 0.0
+* num times of 'french': 1 out of 5883
+* rel freq of 'front': 0.0
+* num times of 'front': 1 out of 5883
+* rel freq of 'ga': 0.0
+* num times of 'ga': 2 out of 5883
+* rel freq of 'gcse': 0.0
+* num times of 'gcse': 1 out of 5883
+* rel freq of 'ged': 0.0
+* num times of 'ged': 1 out of 5883
+* rel freq of 'gm': 0.0
+* num times of 'gm': 1 out of 5883
+* rel freq of 'gpa': 0.10000000000000001
+* num times of 'gpa': 3 out of 5883
+* rel freq of 'gre': 0.0
+* num times of 'gre': 1 out of 5883
+* rel freq of 'gabriel': 0.0
+* num times of 'gabriel': 1 out of 5883
+* rel freq of 'gale': 0.0
+* num times of 'gale': 1 out of 5883
+* rel freq of 'galveston': 0.0
+* num times of 'galveston': 1 out of 5883
+* rel freq of 'game': 0.0
+* num times of 'game': 2 out of 5883
+* rel freq of 'gameboy': 0.0
+* num times of 'gameboy': 1 out of 5883
+* rel freq of 'garda': 0.0
+* num times of 'garda': 1 out of 5883
+* rel freq of 'garfield': 0.0
+* num times of 'garfield': 1 out of 5883
+* rel freq of 'gatwick': 0.0
+* num times of 'gatwick': 2 out of 5883
+* rel freq of 'gautama': 0.0
+* num times of 'gautama': 1 out of 5883
+* rel freq of 'george': 0.0
+* num times of 'george': 1 out of 5883
+* rel freq of 'georgia': 0.10000000000000001
+* num times of 'georgia': 3 out of 5883
+* rel freq of 'gi': 0.0
+* num times of 'gi': 1 out of 5883
+* rel freq of 'gilgamesh': 0.0
+* num times of 'gilgamesh': 1 out of 5883
+* rel freq of 'give': 0.0
+* num times of 'give': 1 out of 5883
+* rel freq of 'gmail': 0.0
+* num times of 'gmail': 1 out of 5883
+* rel freq of 'god': 0.10000000000000001
+* num times of 'god': 5 out of 5883
+* rel freq of 'granada': 0.0
+* num times of 'granada': 1 out of 5883
+* rel freq of 'graphics': 0.0
+* num times of 'graphics': 1 out of 5883
+* rel freq of 'greece': 0.0
+* num times of 'greece': 1 out of 5883
+* rel freq of 'greek': 0.0
+* num times of 'greek': 1 out of 5883
+* rel freq of 'guatemala': 0.0
+* num times of 'guatemala': 1 out of 5883
+* rel freq of 'gynecologist': 0.0
+* num times of 'gynecologist': 1 out of 5883
+* rel freq of 'hdlc': 0.0
+* num times of 'hdlc': 1 out of 5883
+* rel freq of 'how': 0.0
+* num times of 'how': 1 out of 5883
+* rel freq of 'hp': 0.0
+* num times of 'hp': 2 out of 5883
+* rel freq of 'html': 0.0
+* num times of 'html': 2 out of 5883
+* rel freq of 'half': 0.0
+* num times of 'half': 1 out of 5883
+* rel freq of 'halifax': 0.0
+* num times of 'halifax': 1 out of 5883
+* rel freq of 'harabajan': 0.0
+* num times of 'harabajan': 1 out of 5883
+* rel freq of 'harbor': 0.0
+* num times of 'harbor': 1 out of 5883
+* rel freq of 'harry': 0.0
+* num times of 'harry': 1 out of 5883
+* rel freq of 'harvard': 0.0
+* num times of 'harvard': 1 out of 5883
+* rel freq of 'hat': 0.0
+* num times of 'hat': 1 out of 5883
+* rel freq of 'hated': 0.0
+* num times of 'hated': 1 out of 5883
+* rel freq of 'hawaii': 0.0
+* num times of 'hawaii': 2 out of 5883
+* rel freq of 'henderson': 0.0
+* num times of 'henderson': 1 out of 5883
+* rel freq of 'hindi': 0.0
+* num times of 'hindi': 1 out of 5883
+* rel freq of 'history': 0.0
+* num times of 'history': 1 out of 5883
+* rel freq of 'holocaust': 0.0
+* num times of 'holocaust': 1 out of 5883
+* rel freq of 'holy': 0.0
+* num times of 'holy': 1 out of 5883
+* rel freq of 'honolulu': 0.0
+* num times of 'honolulu': 2 out of 5883
+* rel freq of 'housewives': 0.0
+* num times of 'housewives': 1 out of 5883
+* rel freq of 'houston': 0.0
+* num times of 'houston': 2 out of 5883
+* rel freq of 'how': 2.2999999999999998
+* num times of 'how': 134 out of 5883
+* rel freq of 'hubbard': 0.0
+* num times of 'hubbard': 1 out of 5883
+* rel freq of 'human': 0.0
+* num times of 'human': 1 out of 5883
+* rel freq of 'humanity': 0.0
+* num times of 'humanity': 2 out of 5883
+* rel freq of 'i': 0.10000000000000001
+* num times of 'i': 6 out of 5883
+* rel freq of 'ipag': 0.0
+* num times of 'ipag': 1 out of 5883
+* rel freq of 'if': 0.10000000000000001
+* num times of 'if': 5 out of 5883
+* rel freq of 'illinois': 0.0
+* num times of 'illinois': 2 out of 5883
+* rel freq of 'in': 0.10000000000000001
+* num times of 'in': 7 out of 5883
+* rel freq of 'india': 0.0
+* num times of 'india': 2 out of 5883
+* rel freq of 'indiana': 0.0
+* num times of 'indiana': 1 out of 5883
+* rel freq of 'institute': 0.0
+* num times of 'institute': 1 out of 5883
+* rel freq of 'internet': 0.0
+* num times of 'internet': 1 out of 5883
+* rel freq of 'interview': 0.0
+* num times of 'interview': 1 out of 5883
+* rel freq of 'investigation': 0.0
+* num times of 'investigation': 1 out of 5883
+* rel freq of 'investigator': 0.0
+* num times of 'investigator': 1 out of 5883
+* rel freq of 'ireland': 0.0
+* num times of 'ireland': 1 out of 5883
+* rel freq of 'irish': 0.0
+* num times of 'irish': 1 out of 5883
+* rel freq of 'is': 0.29999999999999999
+* num times of 'is': 20 out of 5883
+* rel freq of 'islam': 0.0
+* num times of 'islam': 1 out of 5883
+* rel freq of 'island': 0.0
+* num times of 'island': 1 out of 5883
+* rel freq of 'istanbul': 0.0
+* num times of 'istanbul': 1 out of 5883
+* rel freq of 'it': 0.0
+* num times of 'it': 1 out of 5883
+* rel freq of 'italy': 0.10000000000000001
+* num times of 'italy': 3 out of 5883
+* rel freq of 'ivy': 0.0
+* num times of 'ivy': 1 out of 5883
+* rel freq of 'jj': 0.0
+* num times of 'jj': 1 out of 5883
+* rel freq of 'jamaica': 0.0
+* num times of 'jamaica': 1 out of 5883
+* rel freq of 'james': 0.0
+* num times of 'james': 2 out of 5883
+* rel freq of 'japan': 0.0
+* num times of 'japan': 1 out of 5883
+* rel freq of 'japanese': 0.0
+* num times of 'japanese': 1 out of 5883
+* rel freq of 'java': 0.0
+* num times of 'java': 2 out of 5883
+* rel freq of 'jedism': 0.0
+* num times of 'jedism': 1 out of 5883
+* rel freq of 'jefferson': 0.0
+* num times of 'jefferson': 1 out of 5883
+* rel freq of 'jeremias': 0.0
+* num times of 'jeremias': 1 out of 5883
+* rel freq of 'jersey': 0.0
+* num times of 'jersey': 1 out of 5883
+* rel freq of 'jesus': 0.10000000000000001
+* num times of 'jesus': 3 out of 5883
+* rel freq of 'joe': 0.0
+* num times of 'joe': 1 out of 5883
+* rel freq of 'johnson': 0.0
+* num times of 'johnson': 1 out of 5883
+* rel freq of 'jordan': 0.0
+* num times of 'jordan': 1 out of 5883
+* rel freq of 'journal': 0.0
+* num times of 'journal': 1 out of 5883
+* rel freq of 'judas': 0.0
+* num times of 'judas': 1 out of 5883
+* rel freq of 'kenya': 0.0
+* num times of 'kenya': 1 out of 5883
+* rel freq of 'kilobites': 0.0
+* num times of 'kilobites': 1 out of 5883
+* rel freq of 'king': 0.0
+* num times of 'king': 1 out of 5883
+* rel freq of 'kingdom': 0.0
+* num times of 'kingdom': 1 out of 5883
+* rel freq of 'kong': 0.0
+* num times of 'kong': 1 out of 5883
+* rel freq of 'la': 0.0
+* num times of 'la': 1 out of 5883
+* rel freq of 'ldap': 0.0
+* num times of 'ldap': 1 out of 5883
+* rel freq of 'lake': 0.0
+* num times of 'lake': 1 out of 5883
+* rel freq of 'land': 0.0
+* num times of 'land': 1 out of 5883
+* rel freq of 'language': 0.0
+* num times of 'language': 1 out of 5883
+* rel freq of 'league': 0.0
+* num times of 'league': 1 out of 5883
+* rel freq of 'leavesden': 0.0
+* num times of 'leavesden': 1 out of 5883
+* rel freq of 'leeds': 0.0
+* num times of 'leeds': 1 out of 5883
+* rel freq of 'lego': 0.0
+* num times of 'lego': 1 out of 5883
+* rel freq of 'leland': 0.0
+* num times of 'leland': 1 out of 5883
+* rel freq of 'lending': 0.0
+* num times of 'lending': 1 out of 5883
+* rel freq of 'lent': 0.0
+* num times of 'lent': 1 out of 5883
+* rel freq of 'liberia': 0.0
+* num times of 'liberia': 2 out of 5883
+* rel freq of 'lil': 0.0
+* num times of 'lil': 1 out of 5883
+* rel freq of 'lincolnshire': 0.0
+* num times of 'lincolnshire': 1 out of 5883
+* rel freq of 'linker': 0.0
+* num times of 'linker': 1 out of 5883
+* rel freq of 'linux': 0.10000000000000001
+* num times of 'linux': 4 out of 5883
+* rel freq of 'lisa': 0.0
+* num times of 'lisa': 2 out of 5883
+* rel freq of 'london': 0.10000000000000001
+* num times of 'london': 8 out of 5883
+* rel freq of 'los': 0.10000000000000001
+* num times of 'los': 4 out of 5883
+* rel freq of 'lost': 0.0
+* num times of 'lost': 1 out of 5883
+* rel freq of 'louisiana': 0.0
+* num times of 'louisiana': 1 out of 5883
+* rel freq of 'lovebites': 0.0
+* num times of 'lovebites': 1 out of 5883
+* rel freq of 'luxor': 0.0
+* num times of 'luxor': 1 out of 5883
+* rel freq of 'manymiles': 0.0
+* num times of 'manymiles': 1 out of 5883
+* rel freq of 'mba': 0.0
+* num times of 'mba': 1 out of 5883
+* rel freq of 'mp3s': 0.0
+* num times of 'mp3s': 1 out of 5883
+* rel freq of 'msu': 0.0
+* num times of 'msu': 1 out of 5883
+* rel freq of 'mac': 0.0
+* num times of 'mac': 1 out of 5883
+* rel freq of 'madrid': 0.10000000000000001
+* num times of 'madrid': 3 out of 5883
+* rel freq of 'manager': 0.0
+* num times of 'manager': 1 out of 5883
+* rel freq of 'manchester': 0.0
+* num times of 'manchester': 1 out of 5883
+* rel freq of 'mann': 0.0
+* num times of 'mann': 1 out of 5883
+* rel freq of 'martindale': 0.0
+* num times of 'martindale': 1 out of 5883
+* rel freq of 'maryland': 0.0
+* num times of 'maryland': 1 out of 5883
+* rel freq of 'massachusetts': 0.0
+* num times of 'massachusetts': 1 out of 5883
+* rel freq of 'masterpieces': 0.0
+* num times of 'masterpieces': 1 out of 5883
+* rel freq of 'matthew': 0.0
+* num times of 'matthew': 2 out of 5883
+* rel freq of 'maui': 0.0
+* num times of 'maui': 2 out of 5883
+* rel freq of 'max': 0.0
+* num times of 'max': 1 out of 5883
+* rel freq of 'maximum': 0.0
+* num times of 'maximum': 1 out of 5883
+* rel freq of 'mccartney': 0.0
+* num times of 'mccartney': 1 out of 5883
+* rel freq of 'mcgowan': 0.0
+* num times of 'mcgowan': 1 out of 5883
+* rel freq of 'media': 0.0
+* num times of 'media': 1 out of 5883
+* rel freq of 'memphis': 0.0
+* num times of 'memphis': 1 out of 5883
+* rel freq of 'messiah': 0.0
+* num times of 'messiah': 1 out of 5883
+* rel freq of 'mew': 0.0
+* num times of 'mew': 1 out of 5883
+* rel freq of 'michael': 0.0
+* num times of 'michael': 2 out of 5883
+* rel freq of 'michigan': 0.0
+* num times of 'michigan': 1 out of 5883
+* rel freq of 'midas': 0.0
+* num times of 'midas': 1 out of 5883
+* rel freq of 'mike': 0.0
+* num times of 'mike': 1 out of 5883
+* rel freq of 'milonakis': 0.0
+* num times of 'milonakis': 1 out of 5883
+* rel freq of 'missouri': 0.0
+* num times of 'missouri': 1 out of 5883
+* rel freq of 'mona': 0.0
+* num times of 'mona': 2 out of 5883
+* rel freq of 'monk': 0.0
+* num times of 'monk': 1 out of 5883
+* rel freq of 'monroe': 0.0
+* num times of 'monroe': 1 out of 5883
+* rel freq of 'montclair': 0.0
+* num times of 'montclair': 1 out of 5883
+* rel freq of 'mormons': 0.0
+* num times of 'mormons': 1 out of 5883
+* rel freq of 'moscow': 0.0
+* num times of 'moscow': 1 out of 5883
+* rel freq of 'musician': 0.0
+* num times of 'musician': 1 out of 5883
+* rel freq of 'mysql': 0.0
+* num times of 'mysql': 1 out of 5883
+* rel freq of 'not': 0.0
+* num times of 'not': 2 out of 5883
+* rel freq of 'ny': 0.0
+* num times of 'ny': 1 out of 5883
+* rel freq of 'nyc': 0.0
+* num times of 'nyc': 1 out of 5883
+* rel freq of 'nano': 0.0
+* num times of 'nano': 1 out of 5883
+* rel freq of 'naples': 0.0
+* num times of 'naples': 1 out of 5883
+* rel freq of 'napster': 0.0
+* num times of 'napster': 1 out of 5883
+* rel freq of 'naruto': 0.0
+* num times of 'naruto': 1 out of 5883
+* rel freq of 'nautical': 0.0
+* num times of 'nautical': 1 out of 5883
+* rel freq of 'need': 0.0
+* num times of 'need': 1 out of 5883
+* rel freq of 'neonatal': 0.0
+* num times of 'neonatal': 1 out of 5883
+* rel freq of 'network': 0.0
+* num times of 'network': 2 out of 5883
+* rel freq of 'nevada': 0.0
+* num times of 'nevada': 2 out of 5883
+* rel freq of 'new': 0.20000000000000001
+* num times of 'new': 10 out of 5883
+* rel freq of 'newfoundland': 0.0
+* num times of 'newfoundland': 1 out of 5883
+* rel freq of 'newman': 0.0
+* num times of 'newman': 1 out of 5883
+* rel freq of 'nintendo': 0.10000000000000001
+* num times of 'nintendo': 3 out of 5883
+* rel freq of 'north': 0.0
+* num times of 'north': 2 out of 5883
+* rel freq of 'nurses': 0.0
+* num times of 'nurses': 1 out of 5883
+* rel freq of 'october': 0.0
+* num times of 'october': 1 out of 5883
+* rel freq of 'oedipus': 0.0
+* num times of 'oedipus': 1 out of 5883
+* rel freq of 'of': 0.0
+* num times of 'of': 2 out of 5883
+* rel freq of 'oh': 0.0
+* num times of 'oh': 1 out of 5883
+* rel freq of 'ohio': 0.0
+* num times of 'ohio': 1 out of 5883
+* rel freq of 'oklahoma': 0.0
+* num times of 'oklahoma': 1 out of 5883
+* rel freq of 'old': 0.0
+* num times of 'old': 1 out of 5883
+* rel freq of 'ontario': 0.0
+* num times of 'ontario': 1 out of 5883
+* rel freq of 'open': 0.0
+* num times of 'open': 2 out of 5883
+* rel freq of 'oprah': 0.0
+* num times of 'oprah': 1 out of 5883
+* rel freq of 'orbitz': 0.0
+* num times of 'orbitz': 1 out of 5883
+* rel freq of 'oregon': 0.0
+* num times of 'oregon': 2 out of 5883
+* rel freq of 'orlando': 0.0
+* num times of 'orlando': 2 out of 5883
+* rel freq of 'pa': 0.0
+* num times of 'pa': 2 out of 5883
+* rel freq of 'pc': 0.0
+* num times of 'pc': 1 out of 5883
+* rel freq of 'pcsx2': 0.0
+* num times of 'pcsx2': 1 out of 5883
+* rel freq of 'pcturbo': 0.0
+* num times of 'pcturbo': 1 out of 5883
+* rel freq of 'pcs': 0.0
+* num times of 'pcs': 1 out of 5883
+* rel freq of 'phd': 0.0
+* num times of 'phd': 1 out of 5883
+* rel freq of 'php': 0.0
+* num times of 'php': 1 out of 5883
+* rel freq of 'psp': 0.0
+* num times of 'psp': 1 out of 5883
+* rel freq of 'packar': 0.0
+* num times of 'packar': 1 out of 5883
+* rel freq of 'pages': 0.0
+* num times of 'pages': 1 out of 5883
+* rel freq of 'panama': 0.0
+* num times of 'panama': 1 out of 5883
+* rel freq of 'paris': 0.0
+* num times of 'paris': 2 out of 5883
+* rel freq of 'parse': 0.0
+* num times of 'parse': 1 out of 5883
+* rel freq of 'passenger': 0.0
+* num times of 'passenger': 1 out of 5883
+* rel freq of 'pastor': 0.0
+* num times of 'pastor': 1 out of 5883
+* rel freq of 'patrick': 0.0
+* num times of 'patrick': 2 out of 5883
+* rel freq of 'patricks': 0.0
+* num times of 'patricks': 1 out of 5883
+* rel freq of 'paul': 0.0
+* num times of 'paul': 2 out of 5883
+* rel freq of 'pavilion': 0.0
+* num times of 'pavilion': 1 out of 5883
+* rel freq of 'peach': 0.0
+* num times of 'peach': 1 out of 5883
+* rel freq of 'phd': 0.0
+* num times of 'phd': 1 out of 5883
+* rel freq of 'philadelphia': 0.10000000000000001
+* num times of 'philadelphia': 4 out of 5883
+* rel freq of 'philippines': 0.0
+* num times of 'philippines': 1 out of 5883
+* rel freq of 'philosophies': 0.0
+* num times of 'philosophies': 1 out of 5883
+* rel freq of 'please': 0.0
+* num times of 'please': 1 out of 5883
+* rel freq of 'pokemon': 0.20000000000000001
+* num times of 'pokemon': 10 out of 5883
+* rel freq of 'polish': 0.0
+* num times of 'polish': 1 out of 5883
+* rel freq of 'port': 0.0
+* num times of 'port': 1 out of 5883
+* rel freq of 'portland': 0.0
+* num times of 'portland': 2 out of 5883
+* rel freq of 'potter': 0.0
+* num times of 'potter': 1 out of 5883
+* rel freq of 'predator': 0.0
+* num times of 'predator': 1 out of 5883
+* rel freq of 'presidents': 0.0
+* num times of 'presidents': 1 out of 5883
+* rel freq of 'princeton': 0.0
+* num times of 'princeton': 1 out of 5883
+* rel freq of 'pro': 0.0
+* num times of 'pro': 1 out of 5883
+* rel freq of 'protools': 0.0
+* num times of 'protools': 1 out of 5883
+* rel freq of 'punjabi': 0.0
+* num times of 'punjabi': 1 out of 5883
+* rel freq of 'queen': 0.0
+* num times of 'queen': 1 out of 5883
+* rel freq of 'query': 0.0
+* num times of 'query': 1 out of 5883
+* rel freq of 'quiet': 0.0
+* num times of 'quiet': 1 out of 5883
+* rel freq of 'ram': 0.0
+* num times of 'ram': 1 out of 5883
+* rel freq of 'rmst': 0.0
+* num times of 'rmst': 1 out of 5883
+* rel freq of 'ranger': 0.0
+* num times of 'ranger': 1 out of 5883
+* rel freq of 'ray': 0.0
+* num times of 'ray': 1 out of 5883
+* rel freq of 'real': 0.0
+* num times of 'real': 2 out of 5883
+* rel freq of 'reason': 0.0
+* num times of 'reason': 1 out of 5883
+* rel freq of 'red': 0.0
+* num times of 'red': 1 out of 5883
+* rel freq of 'regarding': 0.0
+* num times of 'regarding': 1 out of 5883
+* rel freq of 'regina': 0.0
+* num times of 'regina': 1 out of 5883
+* rel freq of 'reno': 0.0
+* num times of 'reno': 2 out of 5883
+* rel freq of 'replay': 0.0
+* num times of 'replay': 1 out of 5883
+* rel freq of 'resource': 0.0
+* num times of 'resource': 1 out of 5883
+* rel freq of 'rhode': 0.0
+* num times of 'rhode': 1 out of 5883
+* rel freq of 'richmond': 0.0
+* num times of 'richmond': 1 out of 5883
+* rel freq of 'ring': 0.0
+* num times of 'ring': 1 out of 5883
+* rel freq of 'rock': 0.0
+* num times of 'rock': 1 out of 5883
+* rel freq of 'roman': 0.0
+* num times of 'roman': 1 out of 5883
+* rel freq of 'rome': 0.0
+* num times of 'rome': 2 out of 5883
+* rel freq of 'romilda': 0.0
+* num times of 'romilda': 2 out of 5883
+* rel freq of 'rossetti': 0.0
+* num times of 'rossetti': 2 out of 5883
+* rel freq of 'russia': 0.0
+* num times of 'russia': 1 out of 5883
+* rel freq of 's': 0.0
+* num times of 's': 1 out of 5883
+* rel freq of 'sat': 0.0
+* num times of 'sat': 2 out of 5883
+* rel freq of 'string': 0.0
+* num times of 'string': 1 out of 5883
+* rel freq of 'sacramento': 0.0
+* num times of 'sacramento': 2 out of 5883
+* rel freq of 'sahara': 0.0
+* num times of 'sahara': 1 out of 5883
+* rel freq of 'saint': 0.0
+* num times of 'saint': 1 out of 5883
+* rel freq of 'sam': 0.0
+* num times of 'sam': 1 out of 5883
+* rel freq of 'san': 0.0
+* num times of 'san': 2 out of 5883
+* rel freq of 'sask': 0.0
+* num times of 'sask': 1 out of 5883
+* rel freq of 'satan': 0.0
+* num times of 'satan': 1 out of 5883
+* rel freq of 'scene': 0.0
+* num times of 'scene': 2 out of 5883
+* rel freq of 'schmoe': 0.0
+* num times of 'schmoe': 1 out of 5883
+* rel freq of 'scott': 0.0
+* num times of 'scott': 1 out of 5883
+* rel freq of 'scunthorpe': 0.0
+* num times of 'scunthorpe': 1 out of 5883
+* rel freq of 'sea': 0.0
+* num times of 'sea': 1 out of 5883
+* rel freq of 'seamus': 0.0
+* num times of 'seamus': 1 out of 5883
+* rel freq of 'server': 0.0
+* num times of 'server': 1 out of 5883
+* rel freq of 'seth': 0.0
+* num times of 'seth': 1 out of 5883
+* rel freq of 'shamans': 0.0
+* num times of 'shamans': 1 out of 5883
+* rel freq of 'shark': 0.0
+* num times of 'shark': 1 out of 5883
+* rel freq of 'shellcon': 0.0
+* num times of 'shellcon': 1 out of 5883
+* rel freq of 'shreveport': 0.0
+* num times of 'shreveport': 1 out of 5883
+* rel freq of 'siduri': 0.0
+* num times of 'siduri': 1 out of 5883
+* rel freq of 'sins': 0.0
+* num times of 'sins': 1 out of 5883
+* rel freq of 'siobhan': 0.0
+* num times of 'siobhan': 1 out of 5883
+* rel freq of 'smyrna': 0.0
+* num times of 'smyrna': 1 out of 5883
+* rel freq of 'snickers': 0.0
+* num times of 'snickers': 1 out of 5883
+* rel freq of 'snow': 0.0
+* num times of 'snow': 1 out of 5883
+* rel freq of 'sometimes': 0.0
+* num times of 'sometimes': 1 out of 5883
+* rel freq of 'sony': 0.0
+* num times of 'sony': 1 out of 5883
+* rel freq of 'source': 0.0
+* num times of 'source': 1 out of 5883
+* rel freq of 'southern': 0.0
+* num times of 'southern': 1 out of 5883
+* rel freq of 'soviet': 0.0
+* num times of 'soviet': 1 out of 5883
+* rel freq of 'spain': 0.10000000000000001
+* num times of 'spain': 4 out of 5883
+* rel freq of 'spirit': 0.0
+* num times of 'spirit': 1 out of 5883
+* rel freq of 'spradley': 0.0
+* num times of 'spradley': 1 out of 5883
+* rel freq of 'square': 0.0
+* num times of 'square': 1 out of 5883
+* rel freq of 'squishy': 0.0
+* num times of 'squishy': 1 out of 5883
+* rel freq of 'st': 0.10000000000000001
+* num times of 'st': 3 out of 5883
+* rel freq of 'stanley': 0.0
+* num times of 'stanley': 1 out of 5883
+* rel freq of 'star': 0.0
+* num times of 'star': 1 out of 5883
+* rel freq of 'state': 0.0
+* num times of 'state': 1 out of 5883
+* rel freq of 'stop': 0.0
+* num times of 'stop': 1 out of 5883
+* rel freq of 'strange': 0.0
+* num times of 'strange': 1 out of 5883
+* rel freq of 'stranger': 0.0
+* num times of 'stranger': 1 out of 5883
+* rel freq of 'structured': 0.0
+* num times of 'structured': 1 out of 5883
+* rel freq of 'studios': 0.0
+* num times of 'studios': 1 out of 5883
+* rel freq of 'supernova': 0.0
+* num times of 'supernova': 1 out of 5883
+* rel freq of 'swaney': 0.0
+* num times of 'swaney': 1 out of 5883
+* rel freq of 'switzerland': 0.0
+* num times of 'switzerland': 1 out of 5883
+* rel freq of 't': 0.10000000000000001
+* num times of 't': 3 out of 5883
+* rel freq of 'take': 0.0
+* num times of 'take': 1 out of 5883
+* rel freq of 'tampa': 0.0
+* num times of 'tampa': 1 out of 5883
+* rel freq of 'task': 0.0
+* num times of 'task': 1 out of 5883
+* rel freq of 'ten': 0.0
+* num times of 'ten': 1 out of 5883
+* rel freq of 'tennessee': 0.0
+* num times of 'tennessee': 1 out of 5883
+* rel freq of 'texas': 0.10000000000000001
+* num times of 'texas': 3 out of 5883
+* rel freq of 'thamoss': 0.0
+* num times of 'thamoss': 1 out of 5883
+* rel freq of 'thank': 0.0
+* num times of 'thank': 1 out of 5883
+* rel freq of 'thanks': 0.0
+* num times of 'thanks': 2 out of 5883
+* rel freq of 'the': 0.20000000000000001
+* num times of 'the': 11 out of 5883
+* rel freq of 'thomas': 0.0
+* num times of 'thomas': 1 out of 5883
+* rel freq of 'ticket': 0.0
+* num times of 'ticket': 1 out of 5883
+* rel freq of 'timbers': 0.0
+* num times of 'timbers': 1 out of 5883
+* rel freq of 'times': 0.0
+* num times of 'times': 1 out of 5883
+* rel freq of 'to': 0.0
+* num times of 'to': 1 out of 5883
+* rel freq of 'tokyo': 0.0
+* num times of 'tokyo': 1 out of 5883
+* rel freq of 'tom': 0.0
+* num times of 'tom': 1 out of 5883
+* rel freq of 'toronto': 0.10000000000000001
+* num times of 'toronto': 4 out of 5883
+* rel freq of 'tree': 0.0
+* num times of 'tree': 1 out of 5883
+* rel freq of 'tremeloes': 0.0
+* num times of 'tremeloes': 1 out of 5883
+* rel freq of 'trepassey': 0.0
+* num times of 'trepassey': 1 out of 5883
+* rel freq of 'trinidad': 0.0
+* num times of 'trinidad': 1 out of 5883
+* rel freq of 'trinity': 0.0
+* num times of 'trinity': 1 out of 5883
+* rel freq of 'u': 0.0
+* num times of 'u': 2 out of 5883
+* rel freq of 'ucla': 0.0
+* num times of 'ucla': 1 out of 5883
+* rel freq of 'uk': 0.0
+* num times of 'uk': 2 out of 5883
+* rel freq of 'us': 0.10000000000000001
+* num times of 'us': 8 out of 5883
+* rel freq of 'unfinished': 0.0
+* num times of 'unfinished': 1 out of 5883
+* rel freq of 'union': 0.0
+* num times of 'union': 1 out of 5883
+* rel freq of 'universal': 0.0
+* num times of 'universal': 1 out of 5883
+* rel freq of 'university': 0.10000000000000001
+* num times of 'university': 6 out of 5883
+* rel freq of 'utnapishtim': 0.0
+* num times of 'utnapishtim': 1 out of 5883
+* rel freq of 'vaio': 0.0
+* num times of 'vaio': 1 out of 5883
+* rel freq of 'vancouver': 0.0
+* num times of 'vancouver': 1 out of 5883
+* rel freq of 'vane': 0.0
+* num times of 'vane': 2 out of 5883
+* rel freq of 'velocity': 0.0
+* num times of 'velocity': 1 out of 5883
+* rel freq of 'verizon': 0.0
+* num times of 'verizon': 1 out of 5883
+* rel freq of 'villains': 0.0
+* num times of 'villains': 1 out of 5883
+* rel freq of 'virginia': 0.0
+* num times of 'virginia': 1 out of 5883
+* rel freq of 'virus': 0.0
+* num times of 'virus': 1 out of 5883
+* rel freq of 'wales': 0.0
+* num times of 'wales': 1 out of 5883
+* rel freq of 'war': 0.0
+* num times of 'war': 1 out of 5883
+* rel freq of 'warcraft': 0.0
+* num times of 'warcraft': 1 out of 5883
+* rel freq of 'wars': 0.0
+* num times of 'wars': 1 out of 5883
+* rel freq of 'was': 0.0
+* num times of 'was': 1 out of 5883
+* rel freq of 'wash': 0.0
+* num times of 'wash': 1 out of 5883
+* rel freq of 'washington': 0.10000000000000001
+* num times of 'washington': 3 out of 5883
+* rel freq of 'weber': 0.0
+* num times of 'weber': 1 out of 5883
+* rel freq of 'western': 0.0
+* num times of 'western': 1 out of 5883
+* rel freq of 'what': 2.8999999999999999
+* num times of 'what': 168 out of 5883
+* rel freq of 'when': 0.10000000000000001
+* num times of 'when': 7 out of 5883
+* rel freq of 'where': 0.29999999999999999
+* num times of 'where': 16 out of 5883
+* rel freq of 'which': 0.10000000000000001
+* num times of 'which': 3 out of 5883
+* rel freq of 'whishtag': 0.0
+* num times of 'whishtag': 1 out of 5883
+* rel freq of 'who': 0.20000000000000001
+* num times of 'who': 14 out of 5883
+* rel freq of 'why': 0.20000000000000001
+* num times of 'why': 13 out of 5883
+* rel freq of 'wi': 0.0
+* num times of 'wi': 1 out of 5883
+* rel freq of 'wilberforce': 0.0
+* num times of 'wilberforce': 1 out of 5883
+* rel freq of 'wild': 0.0
+* num times of 'wild': 1 out of 5883
+* rel freq of 'will': 0.10000000000000001
+* num times of 'will': 4 out of 5883
+* rel freq of 'william': 0.0
+* num times of 'william': 1 out of 5883
+* rel freq of 'windows': 0.0
+* num times of 'windows': 2 out of 5883
+* rel freq of 'wings': 0.0
+* num times of 'wings': 1 out of 5883
+* rel freq of 'wink': 0.0
+* num times of 'wink': 1 out of 5883
+* rel freq of 'words': 0.0
+* num times of 'words': 1 out of 5883
+* rel freq of 'world': 0.10000000000000001
+* num times of 'world': 3 out of 5883
+* rel freq of 'would': 0.0
+* num times of 'would': 2 out of 5883
+* rel freq of 'wylie': 0.0
+* num times of 'wylie': 1 out of 5883
+* rel freq of 'x500': 0.0
+* num times of 'x500': 1 out of 5883
+* rel freq of 'xd': 0.0
+* num times of 'xd': 1 out of 5883
+* rel freq of 'xp': 0.0
+* num times of 'xp': 1 out of 5883
+* rel freq of 'yale': 0.0
+* num times of 'yale': 1 out of 5883
+* rel freq of 'york': 0.10000000000000001
+* num times of 'york': 7 out of 5883
+* rel freq of 'yorkshire': 0.0
+* num times of 'yorkshire': 1 out of 5883
+* rel freq of 'you': 0.10000000000000001
+* num times of 'you': 8 out of 5883
+* rel freq of 'your': 0.0
+* num times of 'your': 1 out of 5883
+* rel freq of 'yu': 0.0
+* num times of 'yu': 1 out of 5883
+* rel freq of 'zero': 0.0
+* num times of 'zero': 1 out of 5883
+* rel freq of 'a': 2.5
+* num times of 'a': 145 out of 5883
+* rel freq of 'abilities': 0.0
+* num times of 'abilities': 1 out of 5883
+* rel freq of 'able': 0.0
+* num times of 'able': 1 out of 5883
+* rel freq of 'about': 0.10000000000000001
+* num times of 'about': 6 out of 5883
+* rel freq of 'absentee': 0.0
+* num times of 'absentee': 1 out of 5883
+* rel freq of 'accent': 0.0
+* num times of 'accent': 2 out of 5883
+* rel freq of 'accept': 0.0
+* num times of 'accept': 1 out of 5883
+* rel freq of 'accomplishments': 0.0
+* num times of 'accomplishments': 1 out of 5883
+* rel freq of 'account': 0.0
+* num times of 'account': 1 out of 5883
+* rel freq of 'accountant': 0.0
+* num times of 'accountant': 1 out of 5883
+* rel freq of 'accreditation': 0.0
+* num times of 'accreditation': 1 out of 5883
+* rel freq of 'accredited': 0.0
+* num times of 'accredited': 1 out of 5883
+* rel freq of 'achalpul': 0.0
+* num times of 'achalpul': 1 out of 5883
+* rel freq of 'activity': 0.0
+* num times of 'activity': 1 out of 5883
+* rel freq of 'actress': 0.0
+* num times of 'actress': 2 out of 5883
+* rel freq of 'acts': 0.0
+* num times of 'acts': 1 out of 5883
+* rel freq of 'actual': 0.0
+* num times of 'actual': 1 out of 5883
+* rel freq of 'acura': 0.0
+* num times of 'acura': 1 out of 5883
+* rel freq of 'add': 0.0
+* num times of 'add': 1 out of 5883
+* rel freq of 'address': 0.0
+* num times of 'address': 2 out of 5883
+* rel freq of 'adjusted': 0.0
+* num times of 'adjusted': 1 out of 5883
+* rel freq of 'advantages': 0.10000000000000001
+* num times of 'advantages': 4 out of 5883
+* rel freq of 'advent': 0.0
+* num times of 'advent': 1 out of 5883
+* rel freq of 'advice': 0.0
+* num times of 'advice': 1 out of 5883
+* rel freq of 'affect': 0.0
+* num times of 'affect': 1 out of 5883
+* rel freq of 'after': 0.10000000000000001
+* num times of 'after': 4 out of 5883
+* rel freq of 'again': 0.0
+* num times of 'again': 1 out of 5883
+* rel freq of 'against': 0.0
+* num times of 'against': 2 out of 5883
+* rel freq of 'age': 0.0
+* num times of 'age': 2 out of 5883
+* rel freq of 'agp': 0.0
+* num times of 'agp': 2 out of 5883
+* rel freq of 'aikyadardyam': 0.0
+* num times of 'aikyadardyam': 1 out of 5883
+* rel freq of 'air': 0.0
+* num times of 'air': 1 out of 5883
+* rel freq of 'airplane': 0.0
+* num times of 'airplane': 1 out of 5883
+* rel freq of 'album': 0.0
+* num times of 'album': 1 out of 5883
+* rel freq of 'all': 0.10000000000000001
+* num times of 'all': 4 out of 5883
+* rel freq of 'alone': 0.0
+* num times of 'alone': 1 out of 5883
+* rel freq of 'already': 0.0
+* num times of 'already': 1 out of 5883
+* rel freq of 'amming': 0.0
+* num times of 'amming': 1 out of 5883
+* rel freq of 'among': 0.0
+* num times of 'among': 1 out of 5883
+* rel freq of 'amsterdam': 0.0
+* num times of 'amsterdam': 2 out of 5883
+* rel freq of 'an': 0.5
+* num times of 'an': 31 out of 5883
+* rel freq of 'anagp': 0.0
+* num times of 'anagp': 1 out of 5883
+* rel freq of 'analyst': 0.0
+* num times of 'analyst': 1 out of 5883
+* rel freq of 'ancient': 0.0
+* num times of 'ancient': 1 out of 5883
+* rel freq of 'and': 1.3999999999999999
+* num times of 'and': 83 out of 5883
+* rel freq of 'anesthesia': 0.0
+* num times of 'anesthesia': 1 out of 5883
+* rel freq of 'angeles': 0.0
+* num times of 'angeles': 2 out of 5883
+* rel freq of 'animal': 0.0
+* num times of 'animal': 1 out of 5883
+* rel freq of 'animation': 0.0
+* num times of 'animation': 1 out of 5883
+* rel freq of 'answer': 0.0
+* num times of 'answer': 2 out of 5883
+* rel freq of 'anthropology': 0.0
+* num times of 'anthropology': 1 out of 5883
+* rel freq of 'anti': 0.0
+* num times of 'anti': 1 out of 5883
+* rel freq of 'antispam': 0.0
+* num times of 'antispam': 1 out of 5883
+* rel freq of 'antivirus': 0.0
+* num times of 'antivirus': 1 out of 5883
+* rel freq of 'any': 0.10000000000000001
+* num times of 'any': 5 out of 5883
+* rel freq of 'anyone': 0.0
+* num times of 'anyone': 1 out of 5883
+* rel freq of 'anything': 0.0
+* num times of 'anything': 1 out of 5883
+* rel freq of 'apartment': 0.0
+* num times of 'apartment': 1 out of 5883
+* rel freq of 'applications': 0.0
+* num times of 'applications': 2 out of 5883
+* rel freq of 'appropriate': 0.0
+* num times of 'appropriate': 1 out of 5883
+* rel freq of 'approx': 0.0
+* num times of 'approx': 1 out of 5883
+* rel freq of 'april': 0.0
+* num times of 'april': 1 out of 5883
+* rel freq of 'arara': 0.0
+* num times of 'arara': 1 out of 5883
+* rel freq of 'archangel': 0.0
+* num times of 'archangel': 1 out of 5883
+* rel freq of 'are': 1.0
+* num times of 'are': 60 out of 5883
+* rel freq of 'area': 0.0
+* num times of 'area': 1 out of 5883
+* rel freq of 'aren': 0.0
+* num times of 'aren': 1 out of 5883
+* rel freq of 'arizona': 0.0
+* num times of 'arizona': 1 out of 5883
+* rel freq of 'arrive': 0.0
+* num times of 'arrive': 1 out of 5883
+* rel freq of 'artist': 0.0
+* num times of 'artist': 1 out of 5883
+* rel freq of 'arts': 0.0
+* num times of 'arts': 2 out of 5883
+* rel freq of 'as': 0.20000000000000001
+* num times of 'as': 14 out of 5883
+* rel freq of 'ask': 0.0
+* num times of 'ask': 1 out of 5883
+* rel freq of 'assembly': 0.0
+* num times of 'assembly': 1 out of 5883
+* rel freq of 'assisted': 0.0
+* num times of 'assisted': 1 out of 5883
+* rel freq of 'associate': 0.10000000000000001
+* num times of 'associate': 5 out of 5883
+* rel freq of 'at': 0.29999999999999999
+* num times of 'at': 16 out of 5883
+* rel freq of 'athlete': 0.0
+* num times of 'athlete': 1 out of 5883
+* rel freq of 'attend': 0.0
+* num times of 'attend': 2 out of 5883
+* rel freq of 'attire': 0.0
+* num times of 'attire': 1 out of 5883
+* rel freq of 'attributes': 0.0
+* num times of 'attributes': 2 out of 5883
+* rel freq of 'audio': 0.0
+* num times of 'audio': 1 out of 5883
+* rel freq of 'audition': 0.0
+* num times of 'audition': 2 out of 5883
+* rel freq of 'australia': 0.0
+* num times of 'australia': 1 out of 5883
+* rel freq of 'author': 0.0
+* num times of 'author': 1 out of 5883
+* rel freq of 'auto': 0.0
+* num times of 'auto': 1 out of 5883
+* rel freq of 'automatically': 0.0
+* num times of 'automatically': 1 out of 5883
+* rel freq of 'autonomous': 0.0
+* num times of 'autonomous': 1 out of 5883
+* rel freq of 'available': 0.0
+* num times of 'available': 1 out of 5883
+* rel freq of 'avalanches': 0.0
+* num times of 'avalanches': 1 out of 5883
+* rel freq of 'average': 0.10000000000000001
+* num times of 'average': 3 out of 5883
+* rel freq of 'away': 0.10000000000000001
+* num times of 'away': 3 out of 5883
+* rel freq of 'axe': 0.0
+* num times of 'axe': 1 out of 5883
+* rel freq of 'babies': 0.0
+* num times of 'babies': 1 out of 5883
+* rel freq of 'baby': 0.0
+* num times of 'baby': 1 out of 5883
+* rel freq of 'bachelor': 0.0
+* num times of 'bachelor': 1 out of 5883
+* rel freq of 'back': 0.10000000000000001
+* num times of 'back': 6 out of 5883
+* rel freq of 'bad': 0.0
+* num times of 'bad': 1 out of 5883
+* rel freq of 'baguio': 0.0
+* num times of 'baguio': 1 out of 5883
+* rel freq of 'balanced': 0.0
+* num times of 'balanced': 1 out of 5883
+* rel freq of 'baltimore': 0.0
+* num times of 'baltimore': 1 out of 5883
+* rel freq of 'band': 0.0
+* num times of 'band': 1 out of 5883
+* rel freq of 'bartenders': 0.0
+* num times of 'bartenders': 1 out of 5883
+* rel freq of 'basic': 0.0
+* num times of 'basic': 1 out of 5883
+* rel freq of 'bass': 0.0
+* num times of 'bass': 1 out of 5883
+* rel freq of 'be': 0.29999999999999999
+* num times of 'be': 20 out of 5883
+* rel freq of 'beach': 0.0
+* num times of 'beach': 1 out of 5883
+* rel freq of 'beautiful': 0.0
+* num times of 'beautiful': 1 out of 5883
+* rel freq of 'became': 0.0
+* num times of 'became': 1 out of 5883
+* rel freq of 'become': 0.40000000000000002
+* num times of 'become': 25 out of 5883
+* rel freq of 'becoming': 0.0
+* num times of 'becoming': 2 out of 5883
+* rel freq of 'been': 0.10000000000000001
+* num times of 'been': 4 out of 5883
+* rel freq of 'before': 0.10000000000000001
+* num times of 'before': 3 out of 5883
+* rel freq of 'beginner': 0.0
+* num times of 'beginner': 1 out of 5883
+* rel freq of 'being': 0.10000000000000001
+* num times of 'being': 3 out of 5883
+* rel freq of 'beliefs': 0.0
+* num times of 'beliefs': 1 out of 5883
+* rel freq of 'benefits': 0.0
+* num times of 'benefits': 2 out of 5883
+* rel freq of 'best': 0.20000000000000001
+* num times of 'best': 13 out of 5883
+* rel freq of 'better': 0.0
+* num times of 'better': 2 out of 5883
+* rel freq of 'between': 0.40000000000000002
+* num times of 'between': 21 out of 5883
+* rel freq of 'bible': 0.0
+* num times of 'bible': 2 out of 5883
+* rel freq of 'big': 0.0
+* num times of 'big': 1 out of 5883
+* rel freq of 'bikini': 0.0
+* num times of 'bikini': 1 out of 5883
+* rel freq of 'biologist': 0.0
+* num times of 'biologist': 1 out of 5883
+* rel freq of 'bit': 0.0
+* num times of 'bit': 1 out of 5883
+* rel freq of 'blank': 0.0
+* num times of 'blank': 1 out of 5883
+* rel freq of 'blasphemy': 0.0
+* num times of 'blasphemy': 2 out of 5883
+* rel freq of 'blend': 0.0
+* num times of 'blend': 1 out of 5883
+* rel freq of 'blob': 0.0
+* num times of 'blob': 1 out of 5883
+* rel freq of 'blocker': 0.0
+* num times of 'blocker': 1 out of 5883
+* rel freq of 'blocks': 0.0
+* num times of 'blocks': 1 out of 5883
+* rel freq of 'board': 0.0
+* num times of 'board': 1 out of 5883
+* rel freq of 'boarding': 0.0
+* num times of 'boarding': 1 out of 5883
+* rel freq of 'bold': 0.0
+* num times of 'bold': 1 out of 5883
+* rel freq of 'bonded': 0.0
+* num times of 'bonded': 1 out of 5883
+* rel freq of 'book': 0.10000000000000001
+* num times of 'book': 7 out of 5883
+* rel freq of 'boost': 0.0
+* num times of 'boost': 1 out of 5883
+* rel freq of 'boot': 0.0
+* num times of 'boot': 1 out of 5883
+* rel freq of 'bottom': 0.0
+* num times of 'bottom': 1 out of 5883
+* rel freq of 'box': 0.0
+* num times of 'box': 1 out of 5883
+* rel freq of 'boxer': 0.0
+* num times of 'boxer': 1 out of 5883
+* rel freq of 'boy': 0.0
+* num times of 'boy': 1 out of 5883
+* rel freq of 'brake': 0.0
+* num times of 'brake': 1 out of 5883
+* rel freq of 'british': 0.0
+* num times of 'british': 1 out of 5883
+* rel freq of 'broker': 0.0
+* num times of 'broker': 2 out of 5883
+* rel freq of 'brooklyn': 0.0
+* num times of 'brooklyn': 1 out of 5883
+* rel freq of 'brunette': 0.0
+* num times of 'brunette': 2 out of 5883
+* rel freq of 'bsc': 0.0
+* num times of 'bsc': 1 out of 5883
+* rel freq of 'building': 0.0
+* num times of 'building': 1 out of 5883
+* rel freq of 'burn': 0.0
+* num times of 'burn': 1 out of 5883
+* rel freq of 'business': 0.10000000000000001
+* num times of 'business': 3 out of 5883
+* rel freq of 'busters': 0.0
+* num times of 'busters': 1 out of 5883
+* rel freq of 'but': 0.10000000000000001
+* num times of 'but': 7 out of 5883
+* rel freq of 'button': 0.0
+* num times of 'button': 1 out of 5883
+* rel freq of 'buy': 0.0
+* num times of 'buy': 1 out of 5883
+* rel freq of 'by': 0.29999999999999999
+* num times of 'by': 16 out of 5883
+* rel freq of 'c': 0.0
+* num times of 'c': 1 out of 5883
+* rel freq of 'c28cd04c8f8e9aa65a7mpsigstubexe': 0.0
+* num times of 'c28cd04c8f8e9aa65a7mpsigstubexe': 1 out of 5883
+* rel freq of 'ca': 0.0
+* num times of 'ca': 2 out of 5883
+* rel freq of 'california': 0.0
+* num times of 'california': 1 out of 5883
+* rel freq of 'call': 0.0
+* num times of 'call': 1 out of 5883
+* rel freq of 'called': 0.0
+* num times of 'called': 1 out of 5883
+* rel freq of 'came': 0.0
+* num times of 'came': 1 out of 5883
+* rel freq of 'camera': 0.0
+* num times of 'camera': 1 out of 5883
+* rel freq of 'camps': 0.0
+* num times of 'camps': 1 out of 5883
+* rel freq of 'can': 0.80000000000000004
+* num times of 'can': 45 out of 5883
+* rel freq of 'canary': 0.0
+* num times of 'canary': 1 out of 5883
+* rel freq of 'cant': 0.0
+* num times of 'cant': 2 out of 5883
+* rel freq of 'car': 0.0
+* num times of 'car': 1 out of 5883
+* rel freq of 'card': 0.0
+* num times of 'card': 2 out of 5883
+* rel freq of 'cartoon': 0.0
+* num times of 'cartoon': 1 out of 5883
+* rel freq of 'case': 0.0
+* num times of 'case': 1 out of 5883
+* rel freq of 'cat': 0.0
+* num times of 'cat': 2 out of 5883
+* rel freq of 'caused': 0.0
+* num times of 'caused': 1 out of 5883
+* rel freq of 'celebrate': 0.0
+* num times of 'celebrate': 1 out of 5883
+* rel freq of 'celios': 0.0
+* num times of 'celios': 1 out of 5883
+* rel freq of 'cell': 0.0
+* num times of 'cell': 1 out of 5883
+* rel freq of 'ceremony': 0.0
+* num times of 'ceremony': 1 out of 5883
+* rel freq of 'certain': 0.0
+* num times of 'certain': 1 out of 5883
+* rel freq of 'certified': 0.0
+* num times of 'certified': 1 out of 5883
+* rel freq of 'changed': 0.0
+* num times of 'changed': 1 out of 5883
+* rel freq of 'changes': 0.0
+* num times of 'changes': 2 out of 5883
+* rel freq of 'character': 0.10000000000000001
+* num times of 'character': 3 out of 5883
+* rel freq of 'characters': 0.0
+* num times of 'characters': 1 out of 5883
+* rel freq of 'cheapest': 0.10000000000000001
+* num times of 'cheapest': 3 out of 5883
+* rel freq of 'cheat': 0.0
+* num times of 'cheat': 1 out of 5883
+* rel freq of 'chicago': 0.0
+* num times of 'chicago': 1 out of 5883
+* rel freq of 'child': 0.0
+* num times of 'child': 1 out of 5883
+* rel freq of 'church': 0.0
+* num times of 'church': 1 out of 5883
+* rel freq of 'citizenship': 0.0
+* num times of 'citizenship': 1 out of 5883
+* rel freq of 'city': 0.0
+* num times of 'city': 2 out of 5883
+* rel freq of 'class': 0.0
+* num times of 'class': 1 out of 5883
+* rel freq of 'classes': 0.0
+* num times of 'classes': 1 out of 5883
+* rel freq of 'clob': 0.0
+* num times of 'clob': 1 out of 5883
+* rel freq of 'co': 0.0
+* num times of 'co': 1 out of 5883
+* rel freq of 'coaster': 0.0
+* num times of 'coaster': 1 out of 5883
+* rel freq of 'code': 0.10000000000000001
+* num times of 'code': 6 out of 5883
+* rel freq of 'college': 0.20000000000000001
+* num times of 'college': 10 out of 5883
+* rel freq of 'colleges': 0.10000000000000001
+* num times of 'colleges': 3 out of 5883
+* rel freq of 'colonial': 0.0
+* num times of 'colonial': 1 out of 5883
+* rel freq of 'colonists': 0.0
+* num times of 'colonists': 1 out of 5883
+* rel freq of 'color': 0.0
+* num times of 'color': 1 out of 5883
+* rel freq of 'combined': 0.0
+* num times of 'combined': 1 out of 5883
+* rel freq of 'command': 0.0
+* num times of 'command': 1 out of 5883
+* rel freq of 'commas': 0.0
+* num times of 'commas': 2 out of 5883
+* rel freq of 'commercial': 0.10000000000000001
+* num times of 'commercial': 7 out of 5883
+* rel freq of 'commercially': 0.0
+* num times of 'commercially': 1 out of 5883
+* rel freq of 'commerical': 0.0
+* num times of 'commerical': 1 out of 5883
+* rel freq of 'common': 0.0
+* num times of 'common': 1 out of 5883
+* rel freq of 'communication': 0.0
+* num times of 'communication': 1 out of 5883
+* rel freq of 'community': 0.0
+* num times of 'community': 1 out of 5883
+* rel freq of 'companies': 0.0
+* num times of 'companies': 1 out of 5883
+* rel freq of 'company': 0.0
+* num times of 'company': 2 out of 5883
+* rel freq of 'compared': 0.0
+* num times of 'compared': 1 out of 5883
+* rel freq of 'competing': 0.0
+* num times of 'competing': 1 out of 5883
+* rel freq of 'compilers': 0.0
+* num times of 'compilers': 1 out of 5883
+* rel freq of 'complement': 0.0
+* num times of 'complement': 1 out of 5883
+* rel freq of 'completion': 0.0
+* num times of 'completion': 1 out of 5883
+* rel freq of 'complex': 0.0
+* num times of 'complex': 1 out of 5883
+* rel freq of 'composite': 0.0
+* num times of 'composite': 1 out of 5883
+* rel freq of 'compressed': 0.0
+* num times of 'compressed': 1 out of 5883
+* rel freq of 'computer': 0.29999999999999999
+* num times of 'computer': 18 out of 5883
+* rel freq of 'computers': 0.0
+* num times of 'computers': 1 out of 5883
+* rel freq of 'concentration': 0.0
+* num times of 'concentration': 1 out of 5883
+* rel freq of 'configuration': 0.0
+* num times of 'configuration': 1 out of 5883
+* rel freq of 'configure': 0.0
+* num times of 'configure': 1 out of 5883
+* rel freq of 'confirmed': 0.0
+* num times of 'confirmed': 1 out of 5883
+* rel freq of 'conflict': 0.0
+* num times of 'conflict': 1 out of 5883
+* rel freq of 'conformity': 0.0
+* num times of 'conformity': 1 out of 5883
+* rel freq of 'consent': 0.0
+* num times of 'consent': 1 out of 5883
+* rel freq of 'consider': 0.0
+* num times of 'consider': 1 out of 5883
+* rel freq of 'considered': 0.0
+* num times of 'considered': 2 out of 5883
+* rel freq of 'consultants': 0.0
+* num times of 'consultants': 1 out of 5883
+* rel freq of 'contact': 0.0
+* num times of 'contact': 1 out of 5883
+* rel freq of 'continuously': 0.0
+* num times of 'continuously': 1 out of 5883
+* rel freq of 'contributors': 0.0
+* num times of 'contributors': 1 out of 5883
+* rel freq of 'control': 0.0
+* num times of 'control': 1 out of 5883
+* rel freq of 'cooling': 0.0
+* num times of 'cooling': 1 out of 5883
+* rel freq of 'correct': 0.0
+* num times of 'correct': 1 out of 5883
+* rel freq of 'cost': 0.10000000000000001
+* num times of 'cost': 5 out of 5883
+* rel freq of 'could': 0.10000000000000001
+* num times of 'could': 3 out of 5883
+* rel freq of 'countries': 0.10000000000000001
+* num times of 'countries': 3 out of 5883
+* rel freq of 'country': 0.10000000000000001
+* num times of 'country': 4 out of 5883
+* rel freq of 'courses': 0.0
+* num times of 'courses': 1 out of 5883
+* rel freq of 'cover': 0.0
+* num times of 'cover': 1 out of 5883
+* rel freq of 'crashed': 0.0
+* num times of 'crashed': 1 out of 5883
+* rel freq of 'create': 0.0
+* num times of 'create': 2 out of 5883
+* rel freq of 'created': 0.0
+* num times of 'created': 1 out of 5883
+* rel freq of 'creating': 0.0
+* num times of 'creating': 1 out of 5883
+* rel freq of 'credit': 0.0
+* num times of 'credit': 1 out of 5883
+* rel freq of 'cst': 0.0
+* num times of 'cst': 1 out of 5883
+* rel freq of 'culture': 0.10000000000000001
+* num times of 'culture': 4 out of 5883
+* rel freq of 'current': 0.0
+* num times of 'current': 1 out of 5883
+* rel freq of 'cwindowsystem32shell32': 0.0
+* num times of 'cwindowsystem32shell32': 1 out of 5883
+* rel freq of 'dark': 0.0
+* num times of 'dark': 1 out of 5883
+* rel freq of 'data': 0.10000000000000001
+* num times of 'data': 4 out of 5883
+* rel freq of 'database': 0.0
+* num times of 'database': 1 out of 5883
+* rel freq of 'day': 0.10000000000000001
+* num times of 'day': 4 out of 5883
+* rel freq of 'daylight': 0.0
+* num times of 'daylight': 1 out of 5883
+* rel freq of 'daytime': 0.0
+* num times of 'daytime': 1 out of 5883
+* rel freq of 'ddr': 0.0
+* num times of 'ddr': 2 out of 5883
+* rel freq of 'ddr3': 0.0
+* num times of 'ddr3': 1 out of 5883
+* rel freq of 'death': 0.0
+* num times of 'death': 1 out of 5883
+* rel freq of 'december': 0.0
+* num times of 'december': 1 out of 5883
+* rel freq of 'decent': 0.0
+* num times of 'decent': 1 out of 5883
+* rel freq of 'deeds': 0.0
+* num times of 'deeds': 1 out of 5883
+* rel freq of 'defined': 0.0
+* num times of 'defined': 1 out of 5883
+* rel freq of 'definition': 0.0
+* num times of 'definition': 1 out of 5883
+* rel freq of 'defintion': 0.0
+* num times of 'defintion': 1 out of 5883
+* rel freq of 'degree': 0.20000000000000001
+* num times of 'degree': 9 out of 5883
+* rel freq of 'degrees': 0.10000000000000001
+* num times of 'degrees': 3 out of 5883
+* rel freq of 'delete': 0.10000000000000001
+* num times of 'delete': 4 out of 5883
+* rel freq of 'delivered': 0.0
+* num times of 'delivered': 2 out of 5883
+* rel freq of 'denied': 0.0
+* num times of 'denied': 1 out of 5883
+* rel freq of 'densly': 0.0
+* num times of 'densly': 1 out of 5883
+* rel freq of 'dentist': 0.0
+* num times of 'dentist': 1 out of 5883
+* rel freq of 'dermatology': 0.0
+* num times of 'dermatology': 1 out of 5883
+* rel freq of 'design': 0.0
+* num times of 'design': 1 out of 5883
+* rel freq of 'designer': 0.0
+* num times of 'designer': 1 out of 5883
+* rel freq of 'detailed': 0.0
+* num times of 'detailed': 1 out of 5883
+* rel freq of 'determine': 0.0
+* num times of 'determine': 1 out of 5883
+* rel freq of 'devotional': 0.0
+* num times of 'devotional': 1 out of 5883
+* rel freq of 'did': 0.20000000000000001
+* num times of 'did': 13 out of 5883
+* rel freq of 'difference': 0.10000000000000001
+* num times of 'difference': 6 out of 5883
+* rel freq of 'differences': 0.10000000000000001
+* num times of 'differences': 4 out of 5883
+* rel freq of 'different': 0.0
+* num times of 'different': 1 out of 5883
+* rel freq of 'digital': 0.0
+* num times of 'digital': 1 out of 5883
+* rel freq of 'director': 0.0
+* num times of 'director': 1 out of 5883
+* rel freq of 'directory': 0.0
+* num times of 'directory': 1 out of 5883
+* rel freq of 'disable': 0.0
+* num times of 'disable': 2 out of 5883
+* rel freq of 'disabled': 0.0
+* num times of 'disabled': 1 out of 5883
+* rel freq of 'disadvantages': 0.0
+* num times of 'disadvantages': 1 out of 5883
+* rel freq of 'disease': 0.0
+* num times of 'disease': 1 out of 5883
+* rel freq of 'disk': 0.0
+* num times of 'disk': 1 out of 5883
+* rel freq of 'distance': 0.10000000000000001
+* num times of 'distance': 6 out of 5883
+* rel freq of 'distinctive': 0.0
+* num times of 'distinctive': 1 out of 5883
+* rel freq of 'distributions': 0.0
+* num times of 'distributions': 1 out of 5883
+* rel freq of 'diversity': 0.0
+* num times of 'diversity': 1 out of 5883
+* rel freq of 'do': 1.1000000000000001
+* num times of 'do': 65 out of 5883
+* rel freq of 'doctor': 0.0
+* num times of 'doctor': 2 out of 5883
+* rel freq of 'does': 0.80000000000000004
+* num times of 'does': 45 out of 5883
+* rel freq of 'doesnt': 0.0
+* num times of 'doesnt': 1 out of 5883
+* rel freq of 'doing': 0.0
+* num times of 'doing': 1 out of 5883
+* rel freq of 'don': 0.10000000000000001
+* num times of 'don': 3 out of 5883
+* rel freq of 'done': 0.10000000000000001
+* num times of 'done': 3 out of 5883
+* rel freq of 'dot': 0.0
+* num times of 'dot': 1 out of 5883
+* rel freq of 'down': 0.0
+* num times of 'down': 2 out of 5883
+* rel freq of 'download': 0.10000000000000001
+* num times of 'download': 5 out of 5883
+* rel freq of 'downloaded': 0.0
+* num times of 'downloaded': 1 out of 5883
+* rel freq of 'downloadergeneric2mit': 0.0
+* num times of 'downloadergeneric2mit': 1 out of 5883
+* rel freq of 'drama': 0.0
+* num times of 'drama': 1 out of 5883
+* rel freq of 'dramatic': 0.0
+* num times of 'dramatic': 1 out of 5883
+* rel freq of 'dress': 0.0
+* num times of 'dress': 1 out of 5883
+* rel freq of 'drinking': 0.0
+* num times of 'drinking': 1 out of 5883
+* rel freq of 'drive': 0.10000000000000001
+* num times of 'drive': 7 out of 5883
+* rel freq of 'driven': 0.0
+* num times of 'driven': 1 out of 5883
+* rel freq of 'driver': 0.0
+* num times of 'driver': 1 out of 5883
+* rel freq of 'drives': 0.0
+* num times of 'drives': 1 out of 5883
+* rel freq of 'drop': 0.0
+* num times of 'drop': 1 out of 5883
+* rel freq of 'duplicate': 0.0
+* num times of 'duplicate': 1 out of 5883
+* rel freq of 'during': 0.10000000000000001
+* num times of 'during': 3 out of 5883
+* rel freq of 'duty': 0.0
+* num times of 'duty': 1 out of 5883
+* rel freq of 'dvr': 0.0
+* num times of 'dvr': 1 out of 5883
+* rel freq of 'e': 0.0
+* num times of 'e': 1 out of 5883
+* rel freq of 'each': 0.0
+* num times of 'each': 2 out of 5883
+* rel freq of 'early': 0.0
+* num times of 'early': 2 out of 5883
+* rel freq of 'earn': 0.10000000000000001
+* num times of 'earn': 3 out of 5883
+* rel freq of 'earned': 0.0
+* num times of 'earned': 1 out of 5883
+* rel freq of 'earthquake': 0.0
+* num times of 'earthquake': 1 out of 5883
+* rel freq of 'easiest': 0.0
+* num times of 'easiest': 1 out of 5883
+* rel freq of 'economic': 0.0
+* num times of 'economic': 1 out of 5883
+* rel freq of 'edition': 0.0
+* num times of 'edition': 2 out of 5883
+* rel freq of 'editor': 0.0
+* num times of 'editor': 1 out of 5883
+* rel freq of 'education': 0.10000000000000001
+* num times of 'education': 5 out of 5883
+* rel freq of 'educational': 0.0
+* num times of 'educational': 2 out of 5883
+* rel freq of 'egg': 0.0
+* num times of 'egg': 1 out of 5883
+* rel freq of 'elbow': 0.0
+* num times of 'elbow': 1 out of 5883
+* rel freq of 'electric': 0.0
+* num times of 'electric': 1 out of 5883
+* rel freq of 'electronic': 0.0
+* num times of 'electronic': 1 out of 5883
+* rel freq of 'element': 0.0
+* num times of 'element': 1 out of 5883
+* rel freq of 'emails': 0.0
+* num times of 'emails': 1 out of 5883
+* rel freq of 'embroidery': 0.0
+* num times of 'embroidery': 1 out of 5883
+* rel freq of 'employment': 0.0
+* num times of 'employment': 1 out of 5883
+* rel freq of 'emulator': 0.0
+* num times of 'emulator': 1 out of 5883
+* rel freq of 'engaged': 0.0
+* num times of 'engaged': 1 out of 5883
+* rel freq of 'engineer': 0.0
+* num times of 'engineer': 1 out of 5883
+* rel freq of 'engineering': 0.0
+* num times of 'engineering': 1 out of 5883
+* rel freq of 'enlightenment': 0.0
+* num times of 'enlightenment': 1 out of 5883
+* rel freq of 'enrolled': 0.0
+* num times of 'enrolled': 1 out of 5883
+* rel freq of 'entering': 0.0
+* num times of 'entering': 1 out of 5883
+* rel freq of 'entities': 0.0
+* num times of 'entities': 2 out of 5883
+* rel freq of 'entity': 0.0
+* num times of 'entity': 1 out of 5883
+* rel freq of 'episodes': 0.0
+* num times of 'episodes': 1 out of 5883
+* rel freq of 'error': 0.0
+* num times of 'error': 2 out of 5883
+* rel freq of 'estate': 0.0
+* num times of 'estate': 1 out of 5883
+* rel freq of 'eternal': 0.0
+* num times of 'eternal': 1 out of 5883
+* rel freq of 'etymology': 0.0
+* num times of 'etymology': 1 out of 5883
+* rel freq of 'even': 0.0
+* num times of 'even': 1 out of 5883
+* rel freq of 'events': 0.0
+* num times of 'events': 1 out of 5883
+* rel freq of 'ever': 0.0
+* num times of 'ever': 1 out of 5883
+* rel freq of 'evil': 0.0
+* num times of 'evil': 1 out of 5883
+* rel freq of 'example': 0.10000000000000001
+* num times of 'example': 3 out of 5883
+* rel freq of 'examples': 0.0
+* num times of 'examples': 2 out of 5883
+* rel freq of 'exceptions': 0.0
+* num times of 'exceptions': 1 out of 5883
+* rel freq of 'exegesis': 0.0
+* num times of 'exegesis': 1 out of 5883
+* rel freq of 'exists': 0.0
+* num times of 'exists': 1 out of 5883
+* rel freq of 'expecting': 0.0
+* num times of 'expecting': 1 out of 5883
+* rel freq of 'express': 0.0
+* num times of 'express': 1 out of 5883
+* rel freq of 'expressed': 0.0
+* num times of 'expressed': 1 out of 5883
+* rel freq of 'external': 0.0
+* num times of 'external': 1 out of 5883
+* rel freq of 'extra': 0.0
+* num times of 'extra': 1 out of 5883
+* rel freq of 'eyes': 0.0
+* num times of 'eyes': 1 out of 5883
+* rel freq of 'factory': 0.0
+* num times of 'factory': 1 out of 5883
+* rel freq of 'fade': 0.0
+* num times of 'fade': 1 out of 5883
+* rel freq of 'family': 0.0
+* num times of 'family': 2 out of 5883
+* rel freq of 'famous': 0.0
+* num times of 'famous': 2 out of 5883
+* rel freq of 'fan': 0.10000000000000001
+* num times of 'fan': 3 out of 5883
+* rel freq of 'fancy': 0.0
+* num times of 'fancy': 1 out of 5883
+* rel freq of 'far': 0.10000000000000001
+* num times of 'far': 3 out of 5883
+* rel freq of 'fashion': 0.0
+* num times of 'fashion': 1 out of 5883
+* rel freq of 'fault': 0.0
+* num times of 'fault': 1 out of 5883
+* rel freq of 'fax': 0.0
+* num times of 'fax': 1 out of 5883
+* rel freq of 'fear': 0.0
+* num times of 'fear': 2 out of 5883
+* rel freq of 'featured': 0.0
+* num times of 'featured': 1 out of 5883
+* rel freq of 'features': 0.0
+* num times of 'features': 1 out of 5883
+* rel freq of 'feet': 0.0
+* num times of 'feet': 1 out of 5883
+* rel freq of 'female': 0.0
+* num times of 'female': 1 out of 5883
+* rel freq of 'festival': 0.0
+* num times of 'festival': 1 out of 5883
+* rel freq of 'few': 0.0
+* num times of 'few': 1 out of 5883
+* rel freq of 'field': 0.0
+* num times of 'field': 1 out of 5883
+* rel freq of 'fields': 0.0
+* num times of 'fields': 2 out of 5883
+* rel freq of 'figures': 0.0
+* num times of 'figures': 1 out of 5883
+* rel freq of 'file': 0.10000000000000001
+* num times of 'file': 4 out of 5883
+* rel freq of 'files': 0.10000000000000001
+* num times of 'files': 3 out of 5883
+* rel freq of 'film': 0.0
+* num times of 'film': 2 out of 5883
+* rel freq of 'filming': 0.0
+* num times of 'filming': 1 out of 5883
+* rel freq of 'filter': 0.0
+* num times of 'filter': 1 out of 5883
+* rel freq of 'find': 0.20000000000000001
+* num times of 'find': 11 out of 5883
+* rel freq of 'fine': 0.0
+* num times of 'fine': 1 out of 5883
+* rel freq of 'fire': 0.0
+* num times of 'fire': 1 out of 5883
+* rel freq of 'first': 0.10000000000000001
+* num times of 'first': 7 out of 5883
+* rel freq of 'five': 0.0
+* num times of 'five': 1 out of 5883
+* rel freq of 'fix': 0.10000000000000001
+* num times of 'fix': 4 out of 5883
+* rel freq of 'flight': 0.20000000000000001
+* num times of 'flight': 14 out of 5883
+* rel freq of 'florida': 0.0
+* num times of 'florida': 1 out of 5883
+* rel freq of 'fly': 0.29999999999999999
+* num times of 'fly': 17 out of 5883
+* rel freq of 'flying': 0.0
+* num times of 'flying': 1 out of 5883
+* rel freq of 'fo': 0.0
+* num times of 'fo': 1 out of 5883
+* rel freq of 'for': 0.90000000000000002
+* num times of 'for': 54 out of 5883
+* rel freq of 'forgivable': 0.0
+* num times of 'forgivable': 1 out of 5883
+* rel freq of 'format': 0.0
+* num times of 'format': 1 out of 5883
+* rel freq of 'found': 0.0
+* num times of 'found': 2 out of 5883
+* rel freq of 'four': 0.0
+* num times of 'four': 2 out of 5883
+* rel freq of 'frame': 0.0
+* num times of 'frame': 1 out of 5883
+* rel freq of 'fraternities': 0.0
+* num times of 'fraternities': 1 out of 5883
+* rel freq of 'free': 0.10000000000000001
+* num times of 'free': 3 out of 5883
+* rel freq of 'frequency': 0.0
+* num times of 'frequency': 1 out of 5883
+* rel freq of 'frequently': 0.0
+* num times of 'frequently': 1 out of 5883
+* rel freq of 'friends': 0.0
+* num times of 'friends': 1 out of 5883
+* rel freq of 'from': 1.2
+* num times of 'from': 72 out of 5883
+* rel freq of 'front': 0.0
+* num times of 'front': 2 out of 5883
+* rel freq of 'functions': 0.0
+* num times of 'functions': 1 out of 5883
+* rel freq of 'fundamental': 0.0
+* num times of 'fundamental': 1 out of 5883
+* rel freq of 'g': 0.0
+* num times of 'g': 1 out of 5883
+* rel freq of 'gaggle': 0.0
+* num times of 'gaggle': 1 out of 5883
+* rel freq of 'gaining': 0.0
+* num times of 'gaining': 1 out of 5883
+* rel freq of 'game': 0.0
+* num times of 'game': 2 out of 5883
+* rel freq of 'garbage': 0.0
+* num times of 'garbage': 1 out of 5883
+* rel freq of 'genres': 0.0
+* num times of 'genres': 1 out of 5883
+* rel freq of 'geographic': 0.0
+* num times of 'geographic': 1 out of 5883
+* rel freq of 'geographical': 0.0
+* num times of 'geographical': 2 out of 5883
+* rel freq of 'get': 0.59999999999999998
+* num times of 'get': 38 out of 5883
+* rel freq of 'getting': 0.0
+* num times of 'getting': 1 out of 5883
+* rel freq of 'gforce': 0.0
+* num times of 'gforce': 1 out of 5883
+* rel freq of 'ghost': 0.0
+* num times of 'ghost': 1 out of 5883
+* rel freq of 'gigabyte': 0.0
+* num times of 'gigabyte': 1 out of 5883
+* rel freq of 'girl': 0.0
+* num times of 'girl': 1 out of 5883
+* rel freq of 'give': 0.0
+* num times of 'give': 1 out of 5883
+* rel freq of 'gnarsane': 0.0
+* num times of 'gnarsane': 1 out of 5883
+* rel freq of 'go': 0.10000000000000001
+* num times of 'go': 5 out of 5883
+* rel freq of 'gods': 0.0
+* num times of 'gods': 2 out of 5883
+* rel freq of 'goes': 0.0
+* num times of 'goes': 1 out of 5883
+* rel freq of 'going': 0.0
+* num times of 'going': 2 out of 5883
+* rel freq of 'golden': 0.0
+* num times of 'golden': 1 out of 5883
+* rel freq of 'good': 0.10000000000000001
+* num times of 'good': 7 out of 5883
+* rel freq of 'gorgeous': 0.0
+* num times of 'gorgeous': 1 out of 5883
+* rel freq of 'grade': 0.0
+* num times of 'grade': 2 out of 5883
+* rel freq of 'graduate': 0.0
+* num times of 'graduate': 1 out of 5883
+* rel freq of 'granted': 0.0
+* num times of 'granted': 1 out of 5883
+* rel freq of 'graphics': 0.0
+* num times of 'graphics': 1 out of 5883
+* rel freq of 'guidelines': 0.0
+* num times of 'guidelines': 1 out of 5883
+* rel freq of 'guitar': 0.0
+* num times of 'guitar': 2 out of 5883
+* rel freq of 'guitars': 0.0
+* num times of 'guitars': 1 out of 5883
+* rel freq of 'guy': 0.0
+* num times of 'guy': 2 out of 5883
+* rel freq of 'gynecologist': 0.0
+* num times of 'gynecologist': 1 out of 5883
+* rel freq of 'hacks': 0.0
+* num times of 'hacks': 1 out of 5883
+* rel freq of 'haired': 0.0
+* num times of 'haired': 2 out of 5883
+* rel freq of 'happen': 0.0
+* num times of 'happen': 1 out of 5883
+* rel freq of 'hard': 0.10000000000000001
+* num times of 'hard': 5 out of 5883
+* rel freq of 'hardware': 0.0
+* num times of 'hardware': 2 out of 5883
+* rel freq of 'hardwares': 0.0
+* num times of 'hardwares': 1 out of 5883
+* rel freq of 'has': 0.10000000000000001
+* num times of 'has': 4 out of 5883
+* rel freq of 'hatch': 0.0
+* num times of 'hatch': 1 out of 5883
+* rel freq of 'have': 0.5
+* num times of 'have': 27 out of 5883
+* rel freq of 'heard': 0.0
+* num times of 'heard': 2 out of 5883
+* rel freq of 'help': 0.10000000000000001
+* num times of 'help': 6 out of 5883
+* rel freq of 'her': 0.0
+* num times of 'her': 1 out of 5883
+* rel freq of 'hibernate': 0.0
+* num times of 'hibernate': 1 out of 5883
+* rel freq of 'hidden': 0.0
+* num times of 'hidden': 2 out of 5883
+* rel freq of 'high': 0.10000000000000001
+* num times of 'high': 4 out of 5883
+* rel freq of 'highest': 0.0
+* num times of 'highest': 2 out of 5883
+* rel freq of 'his': 0.10000000000000001
+* num times of 'his': 3 out of 5883
+* rel freq of 'historical': 0.0
+* num times of 'historical': 1 out of 5883
+* rel freq of 'history': 0.10000000000000001
+* num times of 'history': 3 out of 5883
+* rel freq of 'home': 0.0
+* num times of 'home': 1 out of 5883
+* rel freq of 'hook': 0.0
+* num times of 'hook': 1 out of 5883
+* rel freq of 'hornbooks': 0.0
+* num times of 'hornbooks': 1 out of 5883
+* rel freq of 'horror': 0.0
+* num times of 'horror': 1 out of 5883
+* rel freq of 'horse': 0.0
+* num times of 'horse': 1 out of 5883
+* rel freq of 'host': 0.0
+* num times of 'host': 1 out of 5883
+* rel freq of 'hour': 0.0
+* num times of 'hour': 1 out of 5883
+* rel freq of 'hours': 0.20000000000000001
+* num times of 'hours': 9 out of 5883
+* rel freq of 'how': 0.29999999999999999
+* num times of 'how': 15 out of 5883
+* rel freq of 'hub': 0.0
+* num times of 'hub': 1 out of 5883
+* rel freq of 'human': 0.0
+* num times of 'human': 1 out of 5883
+* rel freq of 'humanist': 0.0
+* num times of 'humanist': 1 out of 5883
+* rel freq of 'humanity': 0.0
+* num times of 'humanity': 1 out of 5883
+* rel freq of 'i': 0.0
+* num times of 'i': 2 out of 5883
+* rel freq of 'ipod': 0.0
+* num times of 'ipod': 1 out of 5883
+* rel freq of 'ide': 0.0
+* num times of 'ide': 1 out of 5883
+* rel freq of 'ideas': 0.0
+* num times of 'ideas': 1 out of 5883
+* rel freq of 'identical': 0.0
+* num times of 'identical': 2 out of 5883
+* rel freq of 'if': 0.40000000000000002
+* num times of 'if': 22 out of 5883
+* rel freq of 'illegal': 0.0
+* num times of 'illegal': 1 out of 5883
+* rel freq of 'impact': 0.0
+* num times of 'impact': 1 out of 5883
+* rel freq of 'important': 0.10000000000000001
+* num times of 'important': 4 out of 5883
+* rel freq of 'impossible': 0.0
+* num times of 'impossible': 1 out of 5883
+* rel freq of 'impress': 0.0
+* num times of 'impress': 1 out of 5883
+* rel freq of 'improve': 0.0
+* num times of 'improve': 1 out of 5883
+* rel freq of 'in': 1.8
+* num times of 'in': 108 out of 5883
+* rel freq of 'increase': 0.0
+* num times of 'increase': 1 out of 5883
+* rel freq of 'india': 0.0
+* num times of 'india': 1 out of 5883
+* rel freq of 'information': 0.0
+* num times of 'information': 1 out of 5883
+* rel freq of 'initial': 0.0
+* num times of 'initial': 1 out of 5883
+* rel freq of 'insereted': 0.0
+* num times of 'insereted': 1 out of 5883
+* rel freq of 'insert': 0.0
+* num times of 'insert': 1 out of 5883
+* rel freq of 'inserted': 0.0
+* num times of 'inserted': 1 out of 5883
+* rel freq of 'inside': 0.0
+* num times of 'inside': 1 out of 5883
+* rel freq of 'install': 0.0
+* num times of 'install': 2 out of 5883
+* rel freq of 'instead': 0.0
+* num times of 'instead': 1 out of 5883
+* rel freq of 'institute': 0.0
+* num times of 'institute': 1 out of 5883
+* rel freq of 'instruction': 0.0
+* num times of 'instruction': 2 out of 5883
+* rel freq of 'instructional': 0.0
+* num times of 'instructional': 1 out of 5883
+* rel freq of 'insurance': 0.0
+* num times of 'insurance': 2 out of 5883
+* rel freq of 'intall': 0.0
+* num times of 'intall': 1 out of 5883
+* rel freq of 'intel': 0.0
+* num times of 'intel': 1 out of 5883
+* rel freq of 'intepreters': 0.0
+* num times of 'intepreters': 1 out of 5883
+* rel freq of 'interested': 0.0
+* num times of 'interested': 2 out of 5883
+* rel freq of 'interesting': 0.0
+* num times of 'interesting': 1 out of 5883
+* rel freq of 'internet': 0.10000000000000001
+* num times of 'internet': 3 out of 5883
+* rel freq of 'into': 0.10000000000000001
+* num times of 'into': 5 out of 5883
+* rel freq of 'invented': 0.10000000000000001
+* num times of 'invented': 3 out of 5883
+* rel freq of 'inverted': 0.0
+* num times of 'inverted': 2 out of 5883
+* rel freq of 'ipod': 0.0
+* num times of 'ipod': 1 out of 5883
+* rel freq of 'is': 2.3999999999999999
+* num times of 'is': 141 out of 5883
+* rel freq of 'island': 0.0
+* num times of 'island': 1 out of 5883
+* rel freq of 'it': 1.1000000000000001
+* num times of 'it': 66 out of 5883
+* rel freq of 'items': 0.0
+* num times of 'items': 1 out of 5883
+* rel freq of 'its': 0.0
+* num times of 'its': 2 out of 5883
+* rel freq of 'itunes': 0.0
+* num times of 'itunes': 1 out of 5883
+* rel freq of 'ivy': 0.0
+* num times of 'ivy': 1 out of 5883
+* rel freq of 'job': 0.10000000000000001
+* num times of 'job': 8 out of 5883
+* rel freq of 'jobs': 0.10000000000000001
+* num times of 'jobs': 3 out of 5883
+* rel freq of 'jordan': 0.0
+* num times of 'jordan': 1 out of 5883
+* rel freq of 'just': 0.0
+* num times of 'just': 1 out of 5883
+* rel freq of 'key': 0.10000000000000001
+* num times of 'key': 3 out of 5883
+* rel freq of 'keybord': 0.0
+* num times of 'keybord': 1 out of 5883
+* rel freq of 'killed': 0.0
+* num times of 'killed': 1 out of 5883
+* rel freq of 'kilometers': 0.0
+* num times of 'kilometers': 2 out of 5883
+* rel freq of 'kind': 0.10000000000000001
+* num times of 'kind': 8 out of 5883
+* rel freq of 'kindergarten': 0.0
+* num times of 'kindergarten': 1 out of 5883
+* rel freq of 'know': 0.10000000000000001
+* num times of 'know': 8 out of 5883
+* rel freq of 'knowing': 0.0
+* num times of 'knowing': 1 out of 5883
+* rel freq of 'known': 0.0
+* num times of 'known': 1 out of 5883
+* rel freq of 'lan': 0.0
+* num times of 'lan': 1 out of 5883
+* rel freq of 'land': 0.0
+* num times of 'land': 1 out of 5883
+* rel freq of 'landmarks': 0.0
+* num times of 'landmarks': 1 out of 5883
+* rel freq of 'languages': 0.0
+* num times of 'languages': 1 out of 5883
+* rel freq of 'laptop': 0.10000000000000001
+* num times of 'laptop': 4 out of 5883
+* rel freq of 'last': 0.0
+* num times of 'last': 1 out of 5883
+* rel freq of 'late': 0.0
+* num times of 'late': 1 out of 5883
+* rel freq of 'law': 0.0
+* num times of 'law': 1 out of 5883
+* rel freq of 'layout': 0.0
+* num times of 'layout': 1 out of 5883
+* rel freq of 'lead': 0.0
+* num times of 'lead': 1 out of 5883
+* rel freq of 'league': 0.0
+* num times of 'league': 1 out of 5883
+* rel freq of 'least': 0.0
+* num times of 'least': 2 out of 5883
+* rel freq of 'leaves': 0.0
+* num times of 'leaves': 1 out of 5883
+* rel freq of 'lecturer': 0.0
+* num times of 'lecturer': 1 out of 5883
+* rel freq of 'legal': 0.0
+* num times of 'legal': 1 out of 5883
+* rel freq of 'legend': 0.0
+* num times of 'legend': 1 out of 5883
+* rel freq of 'let': 0.0
+* num times of 'let': 1 out of 5883
+* rel freq of 'letter': 0.0
+* num times of 'letter': 2 out of 5883
+* rel freq of 'letters': 0.0
+* num times of 'letters': 1 out of 5883
+* rel freq of 'level': 0.10000000000000001
+* num times of 'level': 3 out of 5883
+* rel freq of 'library': 0.0
+* num times of 'library': 1 out of 5883
+* rel freq of 'license': 0.0
+* num times of 'license': 1 out of 5883
+* rel freq of 'licensed': 0.0
+* num times of 'licensed': 1 out of 5883
+* rel freq of 'life': 0.10000000000000001
+* num times of 'life': 5 out of 5883
+* rel freq of 'lifestyle': 0.0
+* num times of 'lifestyle': 1 out of 5883
+* rel freq of 'lifestyles': 0.0
+* num times of 'lifestyles': 1 out of 5883
+* rel freq of 'like': 0.10000000000000001
+* num times of 'like': 7 out of 5883
+* rel freq of 'lilicove': 0.0
+* num times of 'lilicove': 1 out of 5883
+* rel freq of 'limewire': 0.0
+* num times of 'limewire': 1 out of 5883
+* rel freq of 'limit': 0.0
+* num times of 'limit': 1 out of 5883
+* rel freq of 'line': 0.0
+* num times of 'line': 1 out of 5883
+* rel freq of 'liner': 0.0
+* num times of 'liner': 1 out of 5883
+* rel freq of 'list': 0.0
+* num times of 'list': 1 out of 5883
+* rel freq of 'listed': 0.0
+* num times of 'listed': 2 out of 5883
+* rel freq of 'listen': 0.0
+* num times of 'listen': 1 out of 5883
+* rel freq of 'listing': 0.0
+* num times of 'listing': 1 out of 5883
+* rel freq of 'live': 0.10000000000000001
+* num times of 'live': 3 out of 5883
+* rel freq of 'lived': 0.0
+* num times of 'lived': 1 out of 5883
+* rel freq of 'living': 0.10000000000000001
+* num times of 'living': 3 out of 5883
+* rel freq of 'local': 0.0
+* num times of 'local': 1 out of 5883
+* rel freq of 'locate': 0.0
+* num times of 'locate': 1 out of 5883
+* rel freq of 'location': 0.10000000000000001
+* num times of 'location': 3 out of 5883
+* rel freq of 'lodging': 0.0
+* num times of 'lodging': 1 out of 5883
+* rel freq of 'logic': 0.0
+* num times of 'logic': 1 out of 5883
+* rel freq of 'long': 0.59999999999999998
+* num times of 'long': 34 out of 5883
+* rel freq of 'longer': 0.0
+* num times of 'longer': 1 out of 5883
+* rel freq of 'longest': 0.0
+* num times of 'longest': 1 out of 5883
+* rel freq of 'look': 0.10000000000000001
+* num times of 'look': 3 out of 5883
+* rel freq of 'looking': 0.0
+* num times of 'looking': 1 out of 5883
+* rel freq of 'los': 0.0
+* num times of 'los': 2 out of 5883
+* rel freq of 'louder': 0.0
+* num times of 'louder': 1 out of 5883
+* rel freq of 'low': 0.0
+* num times of 'low': 1 out of 5883
+* rel freq of 'lyrics': 0.10000000000000001
+* num times of 'lyrics': 4 out of 5883
+* rel freq of 'machine': 0.0
+* num times of 'machine': 1 out of 5883
+* rel freq of 'machines': 0.0
+* num times of 'machines': 1 out of 5883
+* rel freq of 'made': 0.0
+* num times of 'made': 1 out of 5883
+* rel freq of 'mail': 0.10000000000000001
+* num times of 'mail': 5 out of 5883
+* rel freq of 'main': 0.10000000000000001
+* num times of 'main': 4 out of 5883
+* rel freq of 'major': 0.10000000000000001
+* num times of 'major': 3 out of 5883
+* rel freq of 'make': 0.10000000000000001
+* num times of 'make': 4 out of 5883
+* rel freq of 'man': 0.0
+* num times of 'man': 1 out of 5883
+* rel freq of 'manager': 0.0
+* num times of 'manager': 1 out of 5883
+* rel freq of 'manually': 0.0
+* num times of 'manually': 1 out of 5883
+* rel freq of 'manufactures': 0.0
+* num times of 'manufactures': 1 out of 5883
+* rel freq of 'manuveur': 0.0
+* num times of 'manuveur': 1 out of 5883
+* rel freq of 'many': 0.5
+* num times of 'many': 31 out of 5883
+* rel freq of 'maps': 0.0
+* num times of 'maps': 1 out of 5883
+* rel freq of 'marine': 0.0
+* num times of 'marine': 2 out of 5883
+* rel freq of 'market': 0.10000000000000001
+* num times of 'market': 3 out of 5883
+* rel freq of 'married': 0.0
+* num times of 'married': 1 out of 5883
+* rel freq of 'marry': 0.0
+* num times of 'marry': 1 out of 5883
+* rel freq of 'maryland': 0.0
+* num times of 'maryland': 1 out of 5883
+* rel freq of 'mascot': 0.0
+* num times of 'mascot': 1 out of 5883
+* rel freq of 'massage': 0.0
+* num times of 'massage': 1 out of 5883
+* rel freq of 'master': 0.0
+* num times of 'master': 2 out of 5883
+* rel freq of 'may': 0.0
+* num times of 'may': 1 out of 5883
+* rel freq of 'me': 0.0
+* num times of 'me': 2 out of 5883
+* rel freq of 'meals': 0.0
+* num times of 'meals': 1 out of 5883
+* rel freq of 'mean': 0.10000000000000001
+* num times of 'mean': 6 out of 5883
+* rel freq of 'meanest': 0.0
+* num times of 'meanest': 1 out of 5883
+* rel freq of 'meaning': 0.10000000000000001
+* num times of 'meaning': 3 out of 5883
+* rel freq of 'means': 0.0
+* num times of 'means': 2 out of 5883
+* rel freq of 'media': 0.0
+* num times of 'media': 1 out of 5883
+* rel freq of 'mehreen': 0.0
+* num times of 'mehreen': 1 out of 5883
+* rel freq of 'melbourne': 0.0
+* num times of 'melbourne': 1 out of 5883
+* rel freq of 'memory': 0.10000000000000001
+* num times of 'memory': 4 out of 5883
+* rel freq of 'merit': 0.0
+* num times of 'merit': 1 out of 5883
+* rel freq of 'message': 0.0
+* num times of 'message': 2 out of 5883
+* rel freq of 'messages': 0.0
+* num times of 'messages': 2 out of 5883
+* rel freq of 'messed': 0.0
+* num times of 'messed': 1 out of 5883
+* rel freq of 'method': 0.0
+* num times of 'method': 1 out of 5883
+* rel freq of 'methods': 0.0
+* num times of 'methods': 1 out of 5883
+* rel freq of 'mhmisatetac': 0.0
+* num times of 'mhmisatetac': 1 out of 5883
+* rel freq of 'michine': 0.0
+* num times of 'michine': 1 out of 5883
+* rel freq of 'microbiologist': 0.0
+* num times of 'microbiologist': 1 out of 5883
+* rel freq of 'microsoft': 0.0
+* num times of 'microsoft': 1 out of 5883
+* rel freq of 'midi': 0.0
+* num times of 'midi': 1 out of 5883
+* rel freq of 'might': 0.0
+* num times of 'might': 1 out of 5883
+* rel freq of 'miles': 0.20000000000000001
+* num times of 'miles': 9 out of 5883
+* rel freq of 'minnesota': 0.0
+* num times of 'minnesota': 1 out of 5883
+* rel freq of 'missing': 0.0
+* num times of 'missing': 1 out of 5883
+* rel freq of 'mission': 0.0
+* num times of 'mission': 1 out of 5883
+* rel freq of 'mmorpg': 0.0
+* num times of 'mmorpg': 2 out of 5883
+* rel freq of 'mob': 0.0
+* num times of 'mob': 1 out of 5883
+* rel freq of 'mode': 0.0
+* num times of 'mode': 1 out of 5883
+* rel freq of 'modem': 0.0
+* num times of 'modem': 1 out of 5883
+* rel freq of 'modern': 0.0
+* num times of 'modern': 2 out of 5883
+* rel freq of 'monday': 0.0
+* num times of 'monday': 1 out of 5883
+* rel freq of 'money': 0.0
+* num times of 'money': 2 out of 5883
+* rel freq of 'monozygotic': 0.0
+* num times of 'monozygotic': 1 out of 5883
+* rel freq of 'month': 0.0
+* num times of 'month': 1 out of 5883
+* rel freq of 'more': 0.0
+* num times of 'more': 1 out of 5883
+* rel freq of 'most': 0.10000000000000001
+* num times of 'most': 4 out of 5883
+* rel freq of 'motherboard': 0.10000000000000001
+* num times of 'motherboard': 3 out of 5883
+* rel freq of 'mountain': 0.0
+* num times of 'mountain': 1 out of 5883
+* rel freq of 'move': 0.0
+* num times of 'move': 1 out of 5883
+* rel freq of 'movies': 0.0
+* num times of 'movies': 2 out of 5883
+* rel freq of 'msconfig': 0.0
+* num times of 'msconfig': 1 out of 5883
+* rel freq of 'much': 0.10000000000000001
+* num times of 'much': 8 out of 5883
+* rel freq of 'multiprocessing': 0.0
+* num times of 'multiprocessing': 1 out of 5883
+* rel freq of 'multiprogramming': 0.0
+* num times of 'multiprogramming': 1 out of 5883
+* rel freq of 'multiuser': 0.0
+* num times of 'multiuser': 1 out of 5883
+* rel freq of 'multizyogotic': 0.0
+* num times of 'multizyogotic': 1 out of 5883
+* rel freq of 'museum': 0.0
+* num times of 'museum': 1 out of 5883
+* rel freq of 'music': 0.10000000000000001
+* num times of 'music': 4 out of 5883
+* rel freq of 'musical': 0.0
+* num times of 'musical': 1 out of 5883
+* rel freq of 'muslim': 0.0
+* num times of 'muslim': 1 out of 5883
+* rel freq of 'my': 0.0
+* num times of 'my': 2 out of 5883
+* rel freq of 'myspace': 0.0
+* num times of 'myspace': 1 out of 5883
+* rel freq of 'name': 0.10000000000000001
+* num times of 'name': 6 out of 5883
+* rel freq of 'named': 0.0
+* num times of 'named': 2 out of 5883
+* rel freq of 'names': 0.0
+* num times of 'names': 1 out of 5883
+* rel freq of 'naming': 0.0
+* num times of 'naming': 1 out of 5883
+* rel freq of 'narration': 0.0
+* num times of 'narration': 1 out of 5883
+* rel freq of 'nautica': 0.0
+* num times of 'nautica': 1 out of 5883
+* rel freq of 'nearby': 0.0
+* num times of 'nearby': 1 out of 5883
+* rel freq of 'need': 0.20000000000000001
+* num times of 'need': 14 out of 5883
+* rel freq of 'needed': 0.10000000000000001
+* num times of 'needed': 8 out of 5883
+* rel freq of 'needs': 0.0
+* num times of 'needs': 1 out of 5883
+* rel freq of 'neonatal': 0.0
+* num times of 'neonatal': 1 out of 5883
+* rel freq of 'neurologist': 0.0
+* num times of 'neurologist': 1 out of 5883
+* rel freq of 'neurosurgeon': 0.0
+* num times of 'neurosurgeon': 1 out of 5883
+* rel freq of 'new': 0.10000000000000001
+* num times of 'new': 3 out of 5883
+* rel freq of 'night': 0.0
+* num times of 'night': 1 out of 5883
+* rel freq of 'no': 0.0
+* num times of 'no': 2 out of 5883
+* rel freq of 'north': 0.0
+* num times of 'north': 1 out of 5883
+* rel freq of 'northern': 0.0
+* num times of 'northern': 1 out of 5883
+* rel freq of 'northernmost': 0.0
+* num times of 'northernmost': 1 out of 5883
+* rel freq of 'norton': 0.0
+* num times of 'norton': 1 out of 5883
+* rel freq of 'not': 0.20000000000000001
+* num times of 'not': 9 out of 5883
+* rel freq of 'notes': 0.0
+* num times of 'notes': 1 out of 5883
+* rel freq of 'notorious': 0.0
+* num times of 'notorious': 1 out of 5883
+* rel freq of 'now': 0.0
+* num times of 'now': 2 out of 5883
+* rel freq of 'number': 0.0
+* num times of 'number': 2 out of 5883
+* rel freq of 'numbers': 0.0
+* num times of 'numbers': 1 out of 5883
+* rel freq of 'nurse': 0.10000000000000001
+* num times of 'nurse': 4 out of 5883
+* rel freq of 'nylsc': 0.0
+* num times of 'nylsc': 1 out of 5883
+* rel freq of 'object': 0.0
+* num times of 'object': 1 out of 5883
+* rel freq of 'occur': 0.0
+* num times of 'occur': 1 out of 5883
+* rel freq of 'odd': 0.0
+* num times of 'odd': 1 out of 5883
+* rel freq of 'of': 1.5
+* num times of 'of': 91 out of 5883
+* rel freq of 'offer': 0.0
+* num times of 'offer': 2 out of 5883
+* rel freq of 'offical': 0.0
+* num times of 'offical': 1 out of 5883
+* rel freq of 'office': 0.0
+* num times of 'office': 1 out of 5883
+* rel freq of 'often': 0.0
+* num times of 'often': 1 out of 5883
+* rel freq of 'oil': 0.0
+* num times of 'oil': 2 out of 5883
+* rel freq of 'old': 0.10000000000000001
+* num times of 'old': 5 out of 5883
+* rel freq of 'on': 0.80000000000000004
+* num times of 'on': 48 out of 5883
+* rel freq of 'once': 0.0
+* num times of 'once': 1 out of 5883
+* rel freq of 'oncologist': 0.10000000000000001
+* num times of 'oncologist': 3 out of 5883
+* rel freq of 'one': 0.10000000000000001
+* num times of 'one': 7 out of 5883
+* rel freq of 'online': 0.10000000000000001
+* num times of 'online': 3 out of 5883
+* rel freq of 'only': 0.0
+* num times of 'only': 2 out of 5883
+* rel freq of 'opec': 0.0
+* num times of 'opec': 1 out of 5883
+* rel freq of 'open': 0.0
+* num times of 'open': 1 out of 5883
+* rel freq of 'opened': 0.0
+* num times of 'opened': 1 out of 5883
+* rel freq of 'opening': 0.0
+* num times of 'opening': 1 out of 5883
+* rel freq of 'opera': 0.0
+* num times of 'opera': 1 out of 5883
+* rel freq of 'operate': 0.0
+* num times of 'operate': 1 out of 5883
+* rel freq of 'operating': 0.0
+* num times of 'operating': 1 out of 5883
+* rel freq of 'ophthalmologist': 0.0
+* num times of 'ophthalmologist': 1 out of 5883
+* rel freq of 'opinion': 0.0
+* num times of 'opinion': 1 out of 5883
+* rel freq of 'opinions': 0.0
+* num times of 'opinions': 2 out of 5883
+* rel freq of 'options': 0.0
+* num times of 'options': 1 out of 5883
+* rel freq of 'or': 0.40000000000000002
+* num times of 'or': 21 out of 5883
+* rel freq of 'oracle': 0.0
+* num times of 'oracle': 1 out of 5883
+* rel freq of 'orb': 0.0
+* num times of 'orb': 1 out of 5883
+* rel freq of 'order': 0.0
+* num times of 'order': 1 out of 5883
+* rel freq of 'organization': 0.0
+* num times of 'organization': 1 out of 5883
+* rel freq of 'origin': 0.0
+* num times of 'origin': 1 out of 5883
+* rel freq of 'originate': 0.0
+* num times of 'originate': 2 out of 5883
+* rel freq of 'os': 0.0
+* num times of 'os': 1 out of 5883
+* rel freq of 'other': 0.10000000000000001
+* num times of 'other': 6 out of 5883
+* rel freq of 'out': 0.0
+* num times of 'out': 1 out of 5883
+* rel freq of 'outlook': 0.0
+* num times of 'outlook': 1 out of 5883
+* rel freq of 'output': 0.0
+* num times of 'output': 1 out of 5883
+* rel freq of 'over': 0.0
+* num times of 'over': 1 out of 5883
+* rel freq of 'overtone': 0.0
+* num times of 'overtone': 1 out of 5883
+* rel freq of 'owners': 0.0
+* num times of 'owners': 1 out of 5883
+* rel freq of 'p3': 0.0
+* num times of 'p3': 1 out of 5883
+* rel freq of 'p4': 0.0
+* num times of 'p4': 1 out of 5883
+* rel freq of 'package': 0.0
+* num times of 'package': 1 out of 5883
+* rel freq of 'pad': 0.0
+* num times of 'pad': 1 out of 5883
+* rel freq of 'page': 0.10000000000000001
+* num times of 'page': 3 out of 5883
+* rel freq of 'paid': 0.0
+* num times of 'paid': 1 out of 5883
+* rel freq of 'parallel': 0.0
+* num times of 'parallel': 1 out of 5883
+* rel freq of 'parental': 0.0
+* num times of 'parental': 1 out of 5883
+* rel freq of 'parsing': 0.0
+* num times of 'parsing': 2 out of 5883
+* rel freq of 'part': 0.10000000000000001
+* num times of 'part': 6 out of 5883
+* rel freq of 'particular': 0.0
+* num times of 'particular': 1 out of 5883
+* rel freq of 'parts': 0.0
+* num times of 'parts': 1 out of 5883
+* rel freq of 'party': 0.0
+* num times of 'party': 1 out of 5883
+* rel freq of 'pass': 0.0
+* num times of 'pass': 1 out of 5883
+* rel freq of 'passage': 0.0
+* num times of 'passage': 1 out of 5883
+* rel freq of 'passenger': 0.0
+* num times of 'passenger': 1 out of 5883
+* rel freq of 'passwords': 0.0
+* num times of 'passwords': 1 out of 5883
+* rel freq of 'pastors': 0.0
+* num times of 'pastors': 1 out of 5883
+* rel freq of 'patristic': 0.0
+* num times of 'patristic': 1 out of 5883
+* rel freq of 'paulo': 0.0
+* num times of 'paulo': 1 out of 5883
+* rel freq of 'pay': 0.0
+* num times of 'pay': 2 out of 5883
+* rel freq of 'paying': 0.0
+* num times of 'paying': 1 out of 5883
+* rel freq of 'pc': 0.10000000000000001
+* num times of 'pc': 4 out of 5883
+* rel freq of 'pci': 0.0
+* num times of 'pci': 1 out of 5883
+* rel freq of 'pediatric': 0.0
+* num times of 'pediatric': 1 out of 5883
+* rel freq of 'pediatrician': 0.10000000000000001
+* num times of 'pediatrician': 3 out of 5883
+* rel freq of 'pensacola': 0.0
+* num times of 'pensacola': 1 out of 5883
+* rel freq of 'people': 0.0
+* num times of 'people': 2 out of 5883
+* rel freq of 'per': 0.0
+* num times of 'per': 1 out of 5883
+* rel freq of 'percentages': 0.0
+* num times of 'percentages': 1 out of 5883
+* rel freq of 'permanently': 0.0
+* num times of 'permanently': 1 out of 5883
+* rel freq of 'person': 0.0
+* num times of 'person': 1 out of 5883
+* rel freq of 'personal': 0.0
+* num times of 'personal': 1 out of 5883
+* rel freq of 'pharmacy': 0.0
+* num times of 'pharmacy': 1 out of 5883
+* rel freq of 'philippines': 0.0
+* num times of 'philippines': 1 out of 5883
+* rel freq of 'philosophy': 0.0
+* num times of 'philosophy': 1 out of 5883
+* rel freq of 'photo': 0.0
+* num times of 'photo': 2 out of 5883
+* rel freq of 'physiotherapist': 0.0
+* num times of 'physiotherapist': 1 out of 5883
+* rel freq of 'pictures': 0.10000000000000001
+* num times of 'pictures': 3 out of 5883
+* rel freq of 'piercing': 0.0
+* num times of 'piercing': 1 out of 5883
+* rel freq of 'pilot': 0.0
+* num times of 'pilot': 2 out of 5883
+* rel freq of 'pink': 0.0
+* num times of 'pink': 1 out of 5883
+* rel freq of 'place': 0.0
+* num times of 'place': 1 out of 5883
+* rel freq of 'plane': 0.0
+* num times of 'plane': 2 out of 5883
+* rel freq of 'plastic': 0.0
+* num times of 'plastic': 1 out of 5883
+* rel freq of 'platform': 0.0
+* num times of 'platform': 1 out of 5883
+* rel freq of 'play': 0.10000000000000001
+* num times of 'play': 5 out of 5883
+* rel freq of 'played': 0.0
+* num times of 'played': 1 out of 5883
+* rel freq of 'playing': 0.0
+* num times of 'playing': 1 out of 5883
+* rel freq of 'plays': 0.0
+* num times of 'plays': 1 out of 5883
+* rel freq of 'please': 0.0
+* num times of 'please': 1 out of 5883
+* rel freq of 'plot': 0.0
+* num times of 'plot': 1 out of 5883
+* rel freq of 'plug': 0.0
+* num times of 'plug': 1 out of 5883
+* rel freq of 'plugged': 0.0
+* num times of 'plugged': 1 out of 5883
+* rel freq of 'plz': 0.0
+* num times of 'plz': 1 out of 5883
+* rel freq of 'poetry': 0.0
+* num times of 'poetry': 2 out of 5883
+* rel freq of 'pointless': 0.0
+* num times of 'pointless': 1 out of 5883
+* rel freq of 'polka': 0.0
+* num times of 'polka': 1 out of 5883
+* rel freq of 'polyphonic': 0.0
+* num times of 'polyphonic': 1 out of 5883
+* rel freq of 'polyzyogotic': 0.0
+* num times of 'polyzyogotic': 1 out of 5883
+* rel freq of 'pont': 0.0
+* num times of 'pont': 1 out of 5883
+* rel freq of 'pop': 0.0
+* num times of 'pop': 1 out of 5883
+* rel freq of 'pops': 0.0
+* num times of 'pops': 1 out of 5883
+* rel freq of 'popular': 0.0
+* num times of 'popular': 1 out of 5883
+* rel freq of 'populated': 0.0
+* num times of 'populated': 1 out of 5883
+* rel freq of 'portraying': 0.0
+* num times of 'portraying': 1 out of 5883
+* rel freq of 'ports': 0.0
+* num times of 'ports': 1 out of 5883
+* rel freq of 'possible': 0.10000000000000001
+* num times of 'possible': 3 out of 5883
+* rel freq of 'post': 0.0
+* num times of 'post': 2 out of 5883
+* rel freq of 'pregnancy': 0.0
+* num times of 'pregnancy': 1 out of 5883
+* rel freq of 'premature': 0.0
+* num times of 'premature': 1 out of 5883
+* rel freq of 'previous': 0.0
+* num times of 'previous': 1 out of 5883
+* rel freq of 'previously': 0.0
+* num times of 'previously': 1 out of 5883
+* rel freq of 'price': 0.0
+* num times of 'price': 1 out of 5883
+* rel freq of 'prices': 0.0
+* num times of 'prices': 2 out of 5883
+* rel freq of 'primary': 0.0
+* num times of 'primary': 1 out of 5883
+* rel freq of 'principle': 0.0
+* num times of 'principle': 1 out of 5883
+* rel freq of 'print': 0.0
+* num times of 'print': 1 out of 5883
+* rel freq of 'problem': 0.0
+* num times of 'problem': 1 out of 5883
+* rel freq of 'problems': 0.0
+* num times of 'problems': 1 out of 5883
+* rel freq of 'procedure': 0.10000000000000001
+* num times of 'procedure': 3 out of 5883
+* rel freq of 'process': 0.0
+* num times of 'process': 1 out of 5883
+* rel freq of 'processor': 0.0
+* num times of 'processor': 2 out of 5883
+* rel freq of 'produced': 0.0
+* num times of 'produced': 1 out of 5883
+* rel freq of 'production': 0.0
+* num times of 'production': 2 out of 5883
+* rel freq of 'professional': 0.0
+* num times of 'professional': 1 out of 5883
+* rel freq of 'profile': 0.0
+* num times of 'profile': 1 out of 5883
+* rel freq of 'progr': 0.0
+* num times of 'progr': 1 out of 5883
+* rel freq of 'programmer': 0.0
+* num times of 'programmer': 1 out of 5883
+* rel freq of 'programming': 0.0
+* num times of 'programming': 2 out of 5883
+* rel freq of 'programs': 0.10000000000000001
+* num times of 'programs': 4 out of 5883
+* rel freq of 'progrsm': 0.0
+* num times of 'progrsm': 1 out of 5883
+* rel freq of 'prohibited': 0.0
+* num times of 'prohibited': 1 out of 5883
+* rel freq of 'projects': 0.0
+* num times of 'projects': 1 out of 5883
+* rel freq of 'prompt': 0.0
+* num times of 'prompt': 1 out of 5883
+* rel freq of 'prophecies': 0.0
+* num times of 'prophecies': 1 out of 5883
+* rel freq of 'prorate': 0.0
+* num times of 'prorate': 1 out of 5883
+* rel freq of 'ps2': 0.0
+* num times of 'ps2': 1 out of 5883
+* rel freq of 'psychologist': 0.0
+* num times of 'psychologist': 1 out of 5883
+* rel freq of 'psychology': 0.0
+* num times of 'psychology': 1 out of 5883
+* rel freq of 'qualifications': 0.0
+* num times of 'qualifications': 1 out of 5883
+* rel freq of 'qualities': 0.0
+* num times of 'qualities': 1 out of 5883
+* rel freq of 'quantitative': 0.0
+* num times of 'quantitative': 1 out of 5883
+* rel freq of 'question': 0.10000000000000001
+* num times of 'question': 4 out of 5883
+* rel freq of 'quit': 0.0
+* num times of 'quit': 1 out of 5883
+* rel freq of 'radio': 0.0
+* num times of 'radio': 2 out of 5883
+* rel freq of 'raise': 0.0
+* num times of 'raise': 1 out of 5883
+* rel freq of 'rate': 0.0
+* num times of 'rate': 1 out of 5883
+* rel freq of 'read': 0.0
+* num times of 'read': 2 out of 5883
+* rel freq of 'reading': 0.0
+* num times of 'reading': 1 out of 5883
+* rel freq of 'real': 0.0
+* num times of 'real': 2 out of 5883
+* rel freq of 'really': 0.0
+* num times of 'really': 2 out of 5883
+* rel freq of 'recalibrate': 0.0
+* num times of 'recalibrate': 1 out of 5883
+* rel freq of 'receive': 0.0
+* num times of 'receive': 1 out of 5883
+* rel freq of 'received': 0.0
+* num times of 'received': 1 out of 5883
+* rel freq of 'recognitions': 0.0
+* num times of 'recognitions': 1 out of 5883
+* rel freq of 'recognize': 0.0
+* num times of 'recognize': 2 out of 5883
+* rel freq of 'recognized': 0.0
+* num times of 'recognized': 1 out of 5883
+* rel freq of 'recommend': 0.0
+* num times of 'recommend': 1 out of 5883
+* rel freq of 'recorder': 0.0
+* num times of 'recorder': 1 out of 5883
+* rel freq of 'recording': 0.0
+* num times of 'recording': 2 out of 5883
+* rel freq of 'recovered': 0.0
+* num times of 'recovered': 1 out of 5883
+* rel freq of 'referenced': 0.0
+* num times of 'referenced': 2 out of 5883
+* rel freq of 'regarding': 0.0
+* num times of 'regarding': 1 out of 5883
+* rel freq of 'related': 0.0
+* num times of 'related': 1 out of 5883
+* rel freq of 'relationship': 0.10000000000000001
+* num times of 'relationship': 3 out of 5883
+* rel freq of 'religion': 0.0
+* num times of 'religion': 2 out of 5883
+* rel freq of 'religions': 0.0
+* num times of 'religions': 1 out of 5883
+* rel freq of 'remember': 0.0
+* num times of 'remember': 2 out of 5883
+* rel freq of 'remove': 0.10000000000000001
+* num times of 'remove': 4 out of 5883
+* rel freq of 'removed': 0.0
+* num times of 'removed': 1 out of 5883
+* rel freq of 'rep': 0.0
+* num times of 'rep': 1 out of 5883
+* rel freq of 'replace': 0.0
+* num times of 'replace': 2 out of 5883
+* rel freq of 'replaced': 0.0
+* num times of 'replaced': 1 out of 5883
+* rel freq of 'represent': 0.0
+* num times of 'represent': 1 out of 5883
+* rel freq of 'request': 0.0
+* num times of 'request': 1 out of 5883
+* rel freq of 'required': 0.0
+* num times of 'required': 2 out of 5883
+* rel freq of 'requirements': 0.0
+* num times of 'requirements': 1 out of 5883
+* rel freq of 'research': 0.0
+* num times of 'research': 1 out of 5883
+* rel freq of 'response': 0.0
+* num times of 'response': 1 out of 5883
+* rel freq of 'responsibities': 0.0
+* num times of 'responsibities': 1 out of 5883
+* rel freq of 'rest': 0.0
+* num times of 'rest': 1 out of 5883
+* rel freq of 'restart': 0.0
+* num times of 'restart': 1 out of 5883
+* rel freq of 'restore': 0.0
+* num times of 'restore': 1 out of 5883
+* rel freq of 'resulted': 0.0
+* num times of 'resulted': 1 out of 5883
+* rel freq of 'retrace': 0.0
+* num times of 'retrace': 1 out of 5883
+* rel freq of 'return': 0.0
+* num times of 'return': 1 out of 5883
+* rel freq of 'rewritible': 0.0
+* num times of 'rewritible': 1 out of 5883
+* rel freq of 'rid': 0.0
+* num times of 'rid': 1 out of 5883
+* rel freq of 'ridgecrest': 0.0
+* num times of 'ridgecrest': 1 out of 5883
+* rel freq of 'right': 0.0
+* num times of 'right': 1 out of 5883
+* rel freq of 'role': 0.0
+* num times of 'role': 1 out of 5883
+* rel freq of 'roller': 0.0
+* num times of 'roller': 1 out of 5883
+* rel freq of 'rotor': 0.0
+* num times of 'rotor': 1 out of 5883
+* rel freq of 'route': 0.0
+* num times of 'route': 1 out of 5883
+* rel freq of 'rule': 0.0
+* num times of 'rule': 1 out of 5883
+* rel freq of 'run': 0.0
+* num times of 'run': 1 out of 5883
+* rel freq of 'running': 0.0
+* num times of 'running': 2 out of 5883
+* rel freq of 'rural': 0.0
+* num times of 'rural': 1 out of 5883
+* rel freq of 's': 0.5
+* num times of 's': 30 out of 5883
+* rel freq of 'safe': 0.0
+* num times of 'safe': 2 out of 5883
+* rel freq of 'said': 0.0
+* num times of 'said': 2 out of 5883
+* rel freq of 'saint': 0.0
+* num times of 'saint': 1 out of 5883
+* rel freq of 'same': 0.0
+* num times of 'same': 1 out of 5883
+* rel freq of 'sao': 0.0
+* num times of 'sao': 1 out of 5883
+* rel freq of 'saphire': 0.0
+* num times of 'saphire': 1 out of 5883
+* rel freq of 'sata': 0.0
+* num times of 'sata': 1 out of 5883
+* rel freq of 'saturday': 0.0
+* num times of 'saturday': 1 out of 5883
+* rel freq of 'save': 0.0
+* num times of 'save': 2 out of 5883
+* rel freq of 'saving': 0.0
+* num times of 'saving': 1 out of 5883
+* rel freq of 'savings': 0.0
+* num times of 'savings': 1 out of 5883
+* rel freq of 'saythat': 0.0
+* num times of 'saythat': 1 out of 5883
+* rel freq of 'saying': 0.0
+* num times of 'saying': 1 out of 5883
+* rel freq of 'says': 0.0
+* num times of 'says': 2 out of 5883
+* rel freq of 'scamhoax': 0.0
+* num times of 'scamhoax': 1 out of 5883
+* rel freq of 'scan': 0.10000000000000001
+* num times of 'scan': 3 out of 5883
+* rel freq of 'scariest': 0.0
+* num times of 'scariest': 1 out of 5883
+* rel freq of 'schedule': 0.0
+* num times of 'schedule': 1 out of 5883
+* rel freq of 'scholarships': 0.0
+* num times of 'scholarships': 1 out of 5883
+* rel freq of 'school': 0.20000000000000001
+* num times of 'school': 11 out of 5883
+* rel freq of 'schooling': 0.0
+* num times of 'schooling': 1 out of 5883
+* rel freq of 'schools': 0.10000000000000001
+* num times of 'schools': 3 out of 5883
+* rel freq of 'science': 0.10000000000000001
+* num times of 'science': 4 out of 5883
+* rel freq of 'sciences': 0.0
+* num times of 'sciences': 1 out of 5883
+* rel freq of 'score': 0.0
+* num times of 'score': 2 out of 5883
+* rel freq of 'scroll': 0.0
+* num times of 'scroll': 1 out of 5883
+* rel freq of 'sea': 0.0
+* num times of 'sea': 1 out of 5883
+* rel freq of 'season': 0.0
+* num times of 'season': 2 out of 5883
+* rel freq of 'seawall': 0.0
+* num times of 'seawall': 1 out of 5883
+* rel freq of 'second': 0.0
+* num times of 'second': 1 out of 5883
+* rel freq of 'secondary': 0.0
+* num times of 'secondary': 1 out of 5883
+* rel freq of 'secret': 0.0
+* num times of 'secret': 1 out of 5883
+* rel freq of 'see': 0.0
+* num times of 'see': 1 out of 5883
+* rel freq of 'select': 0.0
+* num times of 'select': 1 out of 5883
+* rel freq of 'sell': 0.0
+* num times of 'sell': 1 out of 5883
+* rel freq of 'sender': 0.0
+* num times of 'sender': 1 out of 5883
+* rel freq of 'senior': 0.0
+* num times of 'senior': 1 out of 5883
+* rel freq of 'sent': 0.0
+* num times of 'sent': 2 out of 5883
+* rel freq of 'serial': 0.10000000000000001
+* num times of 'serial': 3 out of 5883
+* rel freq of 'server': 0.10000000000000001
+* num times of 'server': 3 out of 5883
+* rel freq of 'set': 0.0
+* num times of 'set': 2 out of 5883
+* rel freq of 'settings': 0.0
+* num times of 'settings': 1 out of 5883
+* rel freq of 'setup': 0.0
+* num times of 'setup': 1 out of 5883
+* rel freq of 'seventh': 0.0
+* num times of 'seventh': 1 out of 5883
+* rel freq of 'share': 0.0
+* num times of 'share': 1 out of 5883
+* rel freq of 'shell32dll': 0.0
+* num times of 'shell32dll': 2 out of 5883
+* rel freq of 'shiny': 0.0
+* num times of 'shiny': 1 out of 5883
+* rel freq of 'ships': 0.0
+* num times of 'ships': 1 out of 5883
+* rel freq of 'shop': 0.0
+* num times of 'shop': 1 out of 5883
+* rel freq of 'short': 0.0
+* num times of 'short': 2 out of 5883
+* rel freq of 'shortage': 0.0
+* num times of 'shortage': 1 out of 5883
+* rel freq of 'shot': 0.0
+* num times of 'shot': 1 out of 5883
+* rel freq of 'should': 0.10000000000000001
+* num times of 'should': 7 out of 5883
+* rel freq of 'show': 0.10000000000000001
+* num times of 'show': 4 out of 5883
+* rel freq of 'shut': 0.0
+* num times of 'shut': 1 out of 5883
+* rel freq of 'sick': 0.0
+* num times of 'sick': 1 out of 5883
+* rel freq of 'sign': 0.0
+* num times of 'sign': 1 out of 5883
+* rel freq of 'similar': 0.0
+* num times of 'similar': 1 out of 5883
+* rel freq of 'similarities': 0.0
+* num times of 'similarities': 1 out of 5883
+* rel freq of 'simultaneously': 0.0
+* num times of 'simultaneously': 1 out of 5883
+* rel freq of 'singer': 0.0
+* num times of 'singer': 1 out of 5883
+* rel freq of 'singing': 0.0
+* num times of 'singing': 1 out of 5883
+* rel freq of 'site': 0.0
+* num times of 'site': 1 out of 5883
+* rel freq of 'sixth': 0.0
+* num times of 'sixth': 1 out of 5883
+* rel freq of 'skills': 0.0
+* num times of 'skills': 2 out of 5883
+* rel freq of 'slides': 0.0
+* num times of 'slides': 1 out of 5883
+* rel freq of 'slot': 0.0
+* num times of 'slot': 1 out of 5883
+* rel freq of 'smallest': 0.0
+* num times of 'smallest': 1 out of 5883
+* rel freq of 'so': 0.10000000000000001
+* num times of 'so': 6 out of 5883
+* rel freq of 'soap': 0.0
+* num times of 'soap': 1 out of 5883
+* rel freq of 'software': 0.10000000000000001
+* num times of 'software': 7 out of 5883
+* rel freq of 'sold': 0.0
+* num times of 'sold': 1 out of 5883
+* rel freq of 'solo': 0.0
+* num times of 'solo': 1 out of 5883
+* rel freq of 'solve': 0.0
+* num times of 'solve': 2 out of 5883
+* rel freq of 'some': 0.10000000000000001
+* num times of 'some': 6 out of 5883
+* rel freq of 'someone': 0.10000000000000001
+* num times of 'someone': 6 out of 5883
+* rel freq of 'something': 0.0
+* num times of 'something': 1 out of 5883
+* rel freq of 'song': 0.20000000000000001
+* num times of 'song': 9 out of 5883
+* rel freq of 'songs': 0.0
+* num times of 'songs': 2 out of 5883
+* rel freq of 'sonic': 0.0
+* num times of 'sonic': 1 out of 5883
+* rel freq of 'sororities': 0.0
+* num times of 'sororities': 1 out of 5883
+* rel freq of 'sort': 0.0
+* num times of 'sort': 1 out of 5883
+* rel freq of 'sounds': 0.0
+* num times of 'sounds': 2 out of 5883
+* rel freq of 'source': 0.0
+* num times of 'source': 1 out of 5883
+* rel freq of 'spain': 0.0
+* num times of 'spain': 1 out of 5883
+* rel freq of 'spam': 0.0
+* num times of 'spam': 1 out of 5883
+* rel freq of 'spanish': 0.0
+* num times of 'spanish': 1 out of 5883
+* rel freq of 'speak': 0.0
+* num times of 'speak': 1 out of 5883
+* rel freq of 'spearman': 0.0
+* num times of 'spearman': 1 out of 5883
+* rel freq of 'speed': 0.0
+* num times of 'speed': 1 out of 5883
+* rel freq of 'spending': 0.0
+* num times of 'spending': 1 out of 5883
+* rel freq of 'split': 0.0
+* num times of 'split': 1 out of 5883
+* rel freq of 'sports': 0.0
+* num times of 'sports': 2 out of 5883
+* rel freq of 'spy': 0.0
+* num times of 'spy': 1 out of 5883
+* rel freq of 'square': 0.0
+* num times of 'square': 1 out of 5883
+* rel freq of 'stage': 0.0
+* num times of 'stage': 1 out of 5883
+* rel freq of 'stand': 0.0
+* num times of 'stand': 1 out of 5883
+* rel freq of 'standard': 0.0
+* num times of 'standard': 1 out of 5883
+* rel freq of 'standing': 0.0
+* num times of 'standing': 1 out of 5883
+* rel freq of 'star': 0.10000000000000001
+* num times of 'star': 3 out of 5883
+* rel freq of 'stars': 0.0
+* num times of 'stars': 1 out of 5883
+* rel freq of 'start': 0.10000000000000001
+* num times of 'start': 3 out of 5883
+* rel freq of 'starting': 0.0
+* num times of 'starting': 1 out of 5883
+* rel freq of 'starts': 0.0
+* num times of 'starts': 1 out of 5883
+* rel freq of 'stations': 0.0
+* num times of 'stations': 1 out of 5883
+* rel freq of 'statistical': 0.0
+* num times of 'statistical': 1 out of 5883
+* rel freq of 'step': 0.0
+* num times of 'step': 2 out of 5883
+* rel freq of 'still': 0.10000000000000001
+* num times of 'still': 4 out of 5883
+* rel freq of 'stop': 0.0
+* num times of 'stop': 1 out of 5883
+* rel freq of 'stopped': 0.0
+* num times of 'stopped': 1 out of 5883
+* rel freq of 'stories': 0.0
+* num times of 'stories': 1 out of 5883
+* rel freq of 'story': 0.0
+* num times of 'story': 1 out of 5883
+* rel freq of 'straight': 0.0
+* num times of 'straight': 1 out of 5883
+* rel freq of 'stratocaster': 0.0
+* num times of 'stratocaster': 1 out of 5883
+* rel freq of 'stripes': 0.0
+* num times of 'stripes': 1 out of 5883
+* rel freq of 'students': 0.0
+* num times of 'students': 2 out of 5883
+* rel freq of 'studies': 0.0
+* num times of 'studies': 1 out of 5883
+* rel freq of 'study': 0.10000000000000001
+* num times of 'study': 3 out of 5883
+* rel freq of 'stuffing': 0.0
+* num times of 'stuffing': 1 out of 5883
+* rel freq of 'such': 0.10000000000000001
+* num times of 'such': 3 out of 5883
+* rel freq of 'support': 0.0
+* num times of 'support': 1 out of 5883
+* rel freq of 'supported': 0.0
+* num times of 'supported': 2 out of 5883
+* rel freq of 'supports': 0.0
+* num times of 'supports': 1 out of 5883
+* rel freq of 'surgeon': 0.0
+* num times of 'surgeon': 1 out of 5883
+* rel freq of 'symbolize': 0.0
+* num times of 'symbolize': 1 out of 5883
+* rel freq of 'symbols': 0.0
+* num times of 'symbols': 2 out of 5883
+* rel freq of 'syntax': 0.0
+* num times of 'syntax': 1 out of 5883
+* rel freq of 'synthisizer': 0.0
+* num times of 'synthisizer': 1 out of 5883
+* rel freq of 'system': 0.10000000000000001
+* num times of 'system': 3 out of 5883
+* rel freq of 'systems': 0.0
+* num times of 'systems': 1 out of 5883
+* rel freq of 't': 0.10000000000000001
+* num times of 't': 8 out of 5883
+* rel freq of 'table': 0.0
+* num times of 'table': 2 out of 5883
+* rel freq of 'take': 0.5
+* num times of 'take': 28 out of 5883
+* rel freq of 'talk': 0.0
+* num times of 'talk': 1 out of 5883
+* rel freq of 'tallahassee': 0.0
+* num times of 'tallahassee': 1 out of 5883
+* rel freq of 'tattoo': 0.0
+* num times of 'tattoo': 1 out of 5883
+* rel freq of 'taught': 0.0
+* num times of 'taught': 1 out of 5883
+* rel freq of 'teach': 0.0
+* num times of 'teach': 1 out of 5883
+* rel freq of 'teacher': 0.0
+* num times of 'teacher': 1 out of 5883
+* rel freq of 'teahcer': 0.0
+* num times of 'teahcer': 1 out of 5883
+* rel freq of 'tech': 0.0
+* num times of 'tech': 1 out of 5883
+* rel freq of 'technology': 0.10000000000000001
+* num times of 'technology': 4 out of 5883
+* rel freq of 'television': 0.0
+* num times of 'television': 2 out of 5883
+* rel freq of 'tell': 0.0
+* num times of 'tell': 1 out of 5883
+* rel freq of 'terrestrial': 0.0
+* num times of 'terrestrial': 1 out of 5883
+* rel freq of 'test': 0.0
+* num times of 'test': 2 out of 5883
+* rel freq of 'testing': 0.0
+* num times of 'testing': 2 out of 5883
+* rel freq of 'texas': 0.0
+* num times of 'texas': 1 out of 5883
+* rel freq of 'than': 0.0
+* num times of 'than': 1 out of 5883
+* rel freq of 'thank': 0.0
+* num times of 'thank': 1 out of 5883
+* rel freq of 'that': 0.40000000000000002
+* num times of 'that': 21 out of 5883
+* rel freq of 'the': 4.5
+* num times of 'the': 262 out of 5883
+* rel freq of 'theater': 0.0
+* num times of 'theater': 1 out of 5883
+* rel freq of 'their': 0.10000000000000001
+* num times of 'their': 4 out of 5883
+* rel freq of 'them': 0.0
+* num times of 'them': 1 out of 5883
+* rel freq of 'therapist': 0.0
+* num times of 'therapist': 1 out of 5883
+* rel freq of 'there': 0.29999999999999999
+* num times of 'there': 16 out of 5883
+* rel freq of 'they': 0.0
+* num times of 'they': 2 out of 5883
+* rel freq of 'thing': 0.0
+* num times of 'thing': 1 out of 5883
+* rel freq of 'things': 0.0
+* num times of 'things': 1 out of 5883
+* rel freq of 'thinking': 0.0
+* num times of 'thinking': 1 out of 5883
+* rel freq of 'third': 0.0
+* num times of 'third': 2 out of 5883
+* rel freq of 'this': 0.10000000000000001
+* num times of 'this': 8 out of 5883
+* rel freq of 'though': 0.0
+* num times of 'though': 1 out of 5883
+* rel freq of 'three': 0.0
+* num times of 'three': 1 out of 5883
+* rel freq of 'through': 0.0
+* num times of 'through': 1 out of 5883
+* rel freq of 'ticket': 0.0
+* num times of 'ticket': 1 out of 5883
+* rel freq of 'time': 0.29999999999999999
+* num times of 'time': 15 out of 5883
+* rel freq of 'timer': 0.0
+* num times of 'timer': 1 out of 5883
+* rel freq of 'title': 0.10000000000000001
+* num times of 'title': 3 out of 5883
+* rel freq of 'to': 3.2999999999999998
+* num times of 'to': 192 out of 5883
+* rel freq of 'together': 0.0
+* num times of 'together': 1 out of 5883
+* rel freq of 'too': 0.0
+* num times of 'too': 1 out of 5883
+* rel freq of 'tools': 0.0
+* num times of 'tools': 1 out of 5883
+* rel freq of 'top': 0.0
+* num times of 'top': 1 out of 5883
+* rel freq of 'topics': 0.0
+* num times of 'topics': 1 out of 5883
+* rel freq of 'town': 0.0
+* num times of 'town': 1 out of 5883
+* rel freq of 'tracker': 0.0
+* num times of 'tracker': 1 out of 5883
+* rel freq of 'tracks': 0.0
+* num times of 'tracks': 1 out of 5883
+* rel freq of 'trade': 0.0
+* num times of 'trade': 1 out of 5883
+* rel freq of 'traded': 0.0
+* num times of 'traded': 1 out of 5883
+* rel freq of 'traditional': 0.0
+* num times of 'traditional': 1 out of 5883
+* rel freq of 'training': 0.0
+* num times of 'training': 2 out of 5883
+* rel freq of 'travel': 0.10000000000000001
+* num times of 'travel': 3 out of 5883
+* rel freq of 'triangles': 0.0
+* num times of 'triangles': 1 out of 5883
+* rel freq of 'tribal': 0.0
+* num times of 'tribal': 1 out of 5883
+* rel freq of 'trip': 0.10000000000000001
+* num times of 'trip': 3 out of 5883
+* rel freq of 'trojan': 0.0
+* num times of 'trojan': 1 out of 5883
+* rel freq of 'try': 0.0
+* num times of 'try': 1 out of 5883
+* rel freq of 'tv': 0.0
+* num times of 'tv': 1 out of 5883
+* rel freq of 'twins': 0.0
+* num times of 'twins': 2 out of 5883
+* rel freq of 'two': 0.0
+* num times of 'two': 2 out of 5883
+* rel freq of 'type': 0.10000000000000001
+* num times of 'type': 3 out of 5883
+* rel freq of 'types': 0.10000000000000001
+* num times of 'types': 3 out of 5883
+* rel freq of 'ultimately': 0.0
+* num times of 'ultimately': 1 out of 5883
+* rel freq of 'unblocked': 0.0
+* num times of 'unblocked': 1 out of 5883
+* rel freq of 'underground': 0.0
+* num times of 'underground': 1 out of 5883
+* rel freq of 'unexpected': 0.0
+* num times of 'unexpected': 1 out of 5883
+* rel freq of 'unforgivable': 0.0
+* num times of 'unforgivable': 1 out of 5883
+* rel freq of 'uniforms': 0.0
+* num times of 'uniforms': 1 out of 5883
+* rel freq of 'uninstalling': 0.0
+* num times of 'uninstalling': 1 out of 5883
+* rel freq of 'unique': 0.0
+* num times of 'unique': 1 out of 5883
+* rel freq of 'universities': 0.0
+* num times of 'universities': 1 out of 5883
+* rel freq of 'unplugged': 0.0
+* num times of 'unplugged': 1 out of 5883
+* rel freq of 'up': 0.20000000000000001
+* num times of 'up': 9 out of 5883
+* rel freq of 'update': 0.0
+* num times of 'update': 1 out of 5883
+* rel freq of 'updated': 0.0
+* num times of 'updated': 1 out of 5883
+* rel freq of 'urban': 0.0
+* num times of 'urban': 1 out of 5883
+* rel freq of 'use': 0.10000000000000001
+* num times of 'use': 7 out of 5883
+* rel freq of 'used': 0.10000000000000001
+* num times of 'used': 4 out of 5883
+* rel freq of 'user': 0.10000000000000001
+* num times of 'user': 3 out of 5883
+* rel freq of 'users': 0.0
+* num times of 'users': 1 out of 5883
+* rel freq of 'using': 0.0
+* num times of 'using': 2 out of 5883
+* rel freq of 'v18': 0.0
+* num times of 'v18': 1 out of 5883
+* rel freq of 'v5': 0.0
+* num times of 'v5': 1 out of 5883
+* rel freq of 'vacation': 0.0
+* num times of 'vacation': 1 out of 5883
+* rel freq of 'value': 0.0
+* num times of 'value': 1 out of 5883
+* rel freq of 'varsity': 0.0
+* num times of 'varsity': 1 out of 5883
+* rel freq of 'varwwwphpbbcommonphp': 0.0
+* num times of 'varwwwphpbbcommonphp': 1 out of 5883
+* rel freq of 'version': 0.0
+* num times of 'version': 1 out of 5883
+* rel freq of 'versions': 0.0
+* num times of 'versions': 2 out of 5883
+* rel freq of 'video': 0.10000000000000001
+* num times of 'video': 3 out of 5883
+* rel freq of 'viewing': 0.0
+* num times of 'viewing': 1 out of 5883
+* rel freq of 'vif': 0.0
+* num times of 'vif': 1 out of 5883
+* rel freq of 'violent': 0.0
+* num times of 'violent': 1 out of 5883
+* rel freq of 'virus': 0.10000000000000001
+* num times of 'virus': 5 out of 5883
+* rel freq of 'visits': 0.0
+* num times of 'visits': 1 out of 5883
+* rel freq of 'vocalist': 0.0
+* num times of 'vocalist': 1 out of 5883
+* rel freq of 'wait': 0.0
+* num times of 'wait': 1 out of 5883
+* rel freq of 'wake': 0.0
+* num times of 'wake': 1 out of 5883
+* rel freq of 'want': 0.10000000000000001
+* num times of 'want': 6 out of 5883
+* rel freq of 'wanting': 0.0
+* num times of 'wanting': 1 out of 5883
+* rel freq of 'ware': 0.0
+* num times of 'ware': 1 out of 5883
+* rel freq of 'was': 0.29999999999999999
+* num times of 'was': 15 out of 5883
+* rel freq of 'wave': 0.0
+* num times of 'wave': 1 out of 5883
+* rel freq of 'way': 0.20000000000000001
+* num times of 'way': 9 out of 5883
+* rel freq of 'ways': 0.0
+* num times of 'ways': 2 out of 5883
+* rel freq of 'we': 0.10000000000000001
+* num times of 'we': 3 out of 5883
+* rel freq of 'weak': 0.0
+* num times of 'weak': 1 out of 5883
+* rel freq of 'wear': 0.0
+* num times of 'wear': 1 out of 5883
+* rel freq of 'web': 0.10000000000000001
+* num times of 'web': 3 out of 5883
+* rel freq of 'website': 0.0
+* num times of 'website': 2 out of 5883
+* rel freq of 'websites': 0.0
+* num times of 'websites': 1 out of 5883
+* rel freq of 'wedding': 0.0
+* num times of 'wedding': 1 out of 5883
+* rel freq of 'weeks': 0.0
+* num times of 'weeks': 1 out of 5883
+* rel freq of 'well': 0.0
+* num times of 'well': 1 out of 5883
+* rel freq of 'were': 0.10000000000000001
+* num times of 'were': 3 out of 5883
+* rel freq of 'what': 0.20000000000000001
+* num times of 'what': 12 out of 5883
+* rel freq of 'when': 0.20000000000000001
+* num times of 'when': 10 out of 5883
+* rel freq of 'where': 0.10000000000000001
+* num times of 'where': 3 out of 5883
+* rel freq of 'which': 0.10000000000000001
+* num times of 'which': 5 out of 5883
+* rel freq of 'while': 0.0
+* num times of 'while': 1 out of 5883
+* rel freq of 'who': 0.10000000000000001
+* num times of 'who': 4 out of 5883
+* rel freq of 'whoever': 0.0
+* num times of 'whoever': 1 out of 5883
+* rel freq of 'why': 0.0
+* num times of 'why': 2 out of 5883
+* rel freq of 'wife': 0.0
+* num times of 'wife': 1 out of 5883
+* rel freq of 'will': 0.10000000000000001
+* num times of 'will': 4 out of 5883
+* rel freq of 'windat': 0.0
+* num times of 'windat': 1 out of 5883
+* rel freq of 'window': 0.0
+* num times of 'window': 1 out of 5883
+* rel freq of 'windows': 0.10000000000000001
+* num times of 'windows': 4 out of 5883
+* rel freq of 'wireless': 0.0
+* num times of 'wireless': 1 out of 5883
+* rel freq of 'with': 0.40000000000000002
+* num times of 'with': 23 out of 5883
+* rel freq of 'without': 0.10000000000000001
+* num times of 'without': 3 out of 5883
+* rel freq of 'won': 0.0
+* num times of 'won': 2 out of 5883
+* rel freq of 'word': 0.10000000000000001
+* num times of 'word': 8 out of 5883
+* rel freq of 'work': 0.20000000000000001
+* num times of 'work': 10 out of 5883
+* rel freq of 'worked': 0.0
+* num times of 'worked': 1 out of 5883
+* rel freq of 'worker': 0.0
+* num times of 'worker': 1 out of 5883
+* rel freq of 'working': 0.0
+* num times of 'working': 1 out of 5883
+* rel freq of 'world': 0.10000000000000001
+* num times of 'world': 5 out of 5883
+* rel freq of 'would': 0.20000000000000001
+* num times of 'would': 12 out of 5883
+* rel freq of 'write': 0.0
+* num times of 'write': 1 out of 5883
+* rel freq of 'writing': 0.0
+* num times of 'writing': 2 out of 5883
+* rel freq of 'x2': 0.0
+* num times of 'x2': 1 out of 5883
+* rel freq of 'xp': 0.0
+* num times of 'xp': 1 out of 5883
+* rel freq of 'year': 0.10000000000000001
+* num times of 'year': 7 out of 5883
+* rel freq of 'years': 0.10000000000000001
+* num times of 'years': 5 out of 5883
+* rel freq of 'york': 0.0
+* num times of 'york': 1 out of 5883
+* rel freq of 'you': 2.5
+* num times of 'you': 146 out of 5883
+* rel freq of 'your': 0.40000000000000002
+* num times of 'your': 22 out of 5883
+* rel freq of 'youth': 0.0
+* num times of 'youth': 1 out of 5883
+* rel freq of 'zakath': 0.0
+* num times of 'zakath': 1 out of 5883
+* rel freq of 'zipped': 0.0
+* num times of 'zipped': 1 out of 5883
+* rel freq of 'zone': 0.0
+* num times of 'zone': 1 out of 5883
+* rel freq of 'zoologist': 0.0
+* num times of 'zoologist': 1 out of 5883
